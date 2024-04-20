@@ -30,7 +30,7 @@ router.get("/", (req, res, next) => {
     limit = parseInt(limit) || 10;
     let offset = limit * (page - 1);
 
-    let currentData = JSON.parse(fs.readFileSync(jsonFilePath));
+    let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
     let results = [];
     results = currentData.pokemons;
 

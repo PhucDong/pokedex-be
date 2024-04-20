@@ -5,6 +5,7 @@ const cookieParser = require("cookie-parser");
 const logger = require("morgan");
 
 const indexRouter = require("./routes/index");
+const DEFAULT_PORT = require("./src/app/config");
 
 const app = express();
 
@@ -26,6 +27,10 @@ app.use((req, res, next) => {
 // Express error handling middleware
 app.use((err, req, res, next) => {
   res.status(err.statusCode).send(err.message);
+});
+
+app.listen(DEFAULT_PORT, () => {
+  console.log("App is running");
 });
 
 module.exports = app;

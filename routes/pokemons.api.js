@@ -51,7 +51,7 @@ const getPokemons = (req, res, next) => {
 
     results = results.slice(offset, offset + limit);
 
-    res.status(200).sennd(results);
+    res.status(200).send(results);
   } catch (error) {
     next(error);
   }

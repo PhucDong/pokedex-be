@@ -17,7 +17,6 @@ const getPokemons = async (req, res, next) => {
   });
 
   let currentData = JSON.parse(fs.readFileSync("db.json"));
-  // console.log(20, currentData);
   currentData.pokemons = newData;
   fs.writeFileSync("db.json", JSON.stringify(currentData));
 

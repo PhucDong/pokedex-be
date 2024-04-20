@@ -59,6 +59,6 @@ const getPokemons = (req, res, next) => {
 
 createPokemonData();
 
-router.get("/", getPokemons(req, res, next));
+router.get("/", getPokemons);
 
 module.exports = router;

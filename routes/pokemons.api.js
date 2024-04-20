@@ -25,7 +25,7 @@ const jsonFilePath = path.join(process.cwd(), "db.json");
 
 router.get("/", (req, res, next) => {
   try {
-    let { page, limit, ...filterQuery } = req.query;
+    let { page, limit } = req.query;
     page = parseInt(page) || 1;
     limit = parseInt(limit) || 10;
     let offset = limit * (page - 1);

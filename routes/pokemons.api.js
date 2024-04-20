@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router();
 const fs = require("fs");
 const path = require("path");
+const jsonFilePath = path.join(process.cwd(), "db.json");
 
 // turn csv file's data into JSON data
 // return that data to the front-end to render it
@@ -43,7 +44,7 @@ const getPokemons = (req, res, next) => {
     limit = parseInt(limit) || 10;
     let offset = limit * (page - 1);
 
-    let currentData = JSON.parse(fs.readFileSync("db.json"));
+    let currentData = JSON.parse(fs.readFileSync(jsonFilePath));
     let results = [];
     results = currentData.pokemons;
 

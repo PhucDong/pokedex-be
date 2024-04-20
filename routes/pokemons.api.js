@@ -1,12 +1,13 @@
 const express = require("express");
 const router = express.Router();
 const fs = require("fs");
+const csv = require("csvtojson");
 const path = require("path");
 const jsonFilePath = path.join(process.cwd(), "db.json");
 
 // turn csv file's data into JSON data
 // return that data to the front-end to render it
-const createPokemonData = async (req, res, next) => {
+const createPokemonData = async () => {
   let pokemonImageFiles = fs.readdirSync("./public/images"); // return all files (name & its extension)
   const pokemonNames = pokemonImageFiles.map((item) => path.parse(item).name); // return only file names (file extensions are not included)
 

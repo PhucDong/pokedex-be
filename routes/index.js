@@ -1,7 +1,5 @@
 const express = require("express");
 const router = express.Router();
-const fs = require("fs");
-const csv = require("csvtojson");
 const pokemonsRouter = require("./pokemons.api");
 
 /* GET home page. */

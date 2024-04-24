@@ -27,7 +27,11 @@ router.get("/", (req, res, next) => {
       results = results.filter((pokemon) => pokemon.types.includes(type));
     }
 
-    results = results.slice(offset, offset + limit);
+    let pokemonNames = [];
+
+    results.map((pokemon) => pokemonNames.push(pokemon.name));
+
+    results = [results.slice(offset, offset + limit), pokemonNames];
 
     res.status(200).send(results);
   } catch (error) {
@@ -64,6 +68,34 @@ router.get("/:id", (req, res, next) => {
     }
 
     res.status(200).send(results);
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/", (req, res, next) => {
+  try {
+    const { name, url, types } = req.body;
+    let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
+
+    const id = currentData.pokemons.length + 1;
+
+    if (!name || !url || !types || !id) {
+      const exception = new Error(`Missing form information.`);
+      exception.statusCode = 401;
+      throw exception;
+    }
+
+    const newPokemon = {
+      id: id,
+      url,
+      name: name.toLowerCase(),
+      types,
+    };
+
+    currentData.pokemons.push(newPokemon);
+    fs.writeFileSync("db.json", JSON.stringify(currentData));
+    res.status(200).send(newPokemon);
   } catch (error) {
     next(error);
   }

@@ -101,4 +101,39 @@ router.post("/", (req, res, next) => {
   }
 });
 
+router.put("/:id", (req, res, next) => {
+  try {
+    const updates = req.body;
+    let { id } = req.params;
+    id = parseInt(id);
+
+    const currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
+
+    if (req.body.name) {
+      currentData.pokemons.map((pokemon) => {
+        if (pokemon.name === req.body.name) {
+          const exception = new Error("Pokemon already exists.");
+          exception.statusCode = 401;
+          throw exception;
+        }
+      });
+    }
+
+    const targetPokemonIndex = currentData.pokemons.findIndex(
+      (pokemon) => pokemon.id === id
+    );
+
+    const updatedPokemon = {
+      ...currentData.pokemons[targetPokemonIndex],
+      ...updates,
+    };
+    currentData.pokemons[targetPokemonIndex] = updatedPokemon;
+
+    fs.writeFileSync("db.json", JSON.stringify(currentData));
+    res.status(200).send(updatedPokemon);
+  } catch (error) {
+    next(error);
+  }
+});
+
 module.exports = router;

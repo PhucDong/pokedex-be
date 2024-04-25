@@ -1,810 +1,810 @@
-Name,Type1,Type2,Evolution
-bulbasaur,Grass,Poison,ivysaur
-ivysaur,Grass,Poison,venusaur
-venusaur,Grass,Poison,
-charmander,Fire,,charmeleon
-charmeleon,Fire,,charizard
-charizard,Fire,Flying,
-squirtle,Water,,wartortle
-wartortle,Water,,blastoise
-blastoise,Water,,
-caterpie,Bug,,metapod
-metapod,Bug,,butterfree
-butterfree,Bug,Flying,
-weedle,Bug,Poison,kakuna
-kakuna,Bug,Poison,beedrill
-beedrill,Bug,Poison,
-pidgey,Normal,Flying,pidgeotto
-pidgeotto,Normal,Flying,pidgeot
-pidgeot,Normal,Flying,
-rattata,Normal,,raticate
-raticate,Normal,,
-spearow,Normal,Flying,fearow
-fearow,Normal,Flying,
-ekans,Poison,,arbok
-arbok,Poison,,
-pikachu,Electric,,raichu
-raichu,Electric,,
-sandshrew,Ground,,sandslash
-sandslash,Ground,,
-nidoran-f,Poison,,nidorina
-nidorina,Poison,,nidoqueen
-nidoqueen,Poison,Ground,
-nidoran-m,Poison,,nidorino
-nidorino,Poison,,nidoking
-nidoking,Poison,Ground,
-clefairy,Fairy,,clefable
-clefable,Fairy,,
-vulpix,Fire,,ninetales
-ninetales,Fire,,
-jigglypuff,Normal,Fairy,
-wigglytuff,Normal,Fairy,
-zubat,Poison,Flying,
-golbat,Poison,Flying,
-oddish,Grass,Poison,
-gloom,Grass,Poison,
-vileplume,Grass,Poison,
-paras,Bug,Grass,
-parasect,Bug,Grass,
-venonat,Bug,Poison,
-venomoth,Bug,Poison,
-diglett,Ground,,dugtrio
-dugtrio,Ground,,
-meowth,Normal,,persian
-persian,Normal,,
-psyduck,Water,,golduck
-golduck,Water,,
-mankey,Fighting,,primeape
-primeape,Fighting,,
-growlithe,Fire,,arcanine
-arcanine,Fire,,
-poliwag,Water,,poliwhirl
-poliwhirl,Water,,poliwrath
-poliwrath,Water,Fighting,
-abra,Psychic,,kadabra
-kadabra,Psychic,,alakazam
-alakazam,Psychic,,
-machop,Fighting,,
-machoke,Fighting,,
-machamp,Fighting,,
-bellsprout,Grass,Poison,
-weepinbell,Grass,Poison,
-victreebel,Grass,Poison,
-tentacool,Water,Poison,
-tentacruel,Water,Poison,
-geodude,Rock,Ground,
-graveler,Rock,Ground,
-golem,Rock,Ground,
-ponyta,Fire,,
-rapidash,Fire,,
-slowpoke,Water,Psychic,
-slowbro,Water,Psychic,
-magnemite,Electric,Steel,
-magneton,Electric,Steel,
-farfetchd,Normal,Flying,
-doduo,Normal,Flying,
-dodrio,Normal,Flying,
-seel,Water,,
-dewgong,Water,Ice,
-grimer,Poison,,
-muk,Poison,,
-shellder,Water,,
-cloyster,Water,Ice,
-gastly,Ghost,Poison,
-haunter,Ghost,Poison,
-gengar,Ghost,Poison,
-onix,Rock,Ground,
-drowzee,Psychic,,
-hypno,Psychic,,
-krabby,Water,,
-kingler,Water,,
-voltorb,Electric,,
-electrode,Electric,,
-exeggcute,Grass,Psychic,
-exeggutor,Grass,Psychic,
-cubone,Ground,,
-marowak,Ground,,
-hitmonlee,Fighting,,
-hitmonchan,Fighting,,
-lickitung,Normal,,
-koffing,Poison,,
-weezing,Poison,,
-rhyhorn,Ground,Rock,
-rhydon,Ground,Rock,
-chansey,Normal,,
-tangela,Grass,,
-kangaskhan,Normal,,
-horsea,Water,,
-seadra,Water,,
-goldeen,Water,,
-seaking,Water,,
-staryu,Water,,
-starmie,Water,Psychic,
-mr-mime,Psychic,Fairy,
-scyther,Bug,Flying,
-jynx,Ice,Psychic,
-electabuzz,Electric,,
-magmar,Fire,,
-pinsir,Bug,,
-tauros,Normal,,
-magikarp,Water,,
-gyarados,Water,Flying,
-lapras,Water,Ice,
-ditto,Normal,,
-eevee,Normal,,
-vaporeon,Water,,
-jolteon,Electric,,
-flareon,Fire,,
-porygon,Normal,,
-omanyte,Rock,Water,
-omastar,Rock,Water,
-kabuto,Rock,Water,
-kabutops,Rock,Water,
-aerodactyl,Rock,Flying,
-snorlax,Normal,,
-articuno,Ice,Flying,
-zapdos,Electric,Flying,
-moltres,Fire,Flying,
-dratini,Dragon,,
-dragonair,Dragon,,
-dragonite,Dragon,Flying,
-mewtwo,Psychic,,
-mew,Psychic,,
-chikorita,Grass,,
-bayleef,Grass,,
-meganium,Grass,,
-cyndaquil,Fire,,
-quilava,Fire,,
-typhlosion,Fire,,
-totodile,Water,,
-croconaw,Water,,
-feraligatr,Water,,
-sentret,Normal,,
-furret,Normal,,
-hoothoot,Normal,Flying,
-noctowl,Normal,Flying,
-ledyba,Bug,Flying,
-ledian,Bug,Flying,
-spinarak,Bug,Poison,
-ariados,Bug,Poison,
-crobat,Poison,Flying,
-chinchou,Water,Electric,
-lanturn,Water,Electric,
-pichu,Electric,,
-cleffa,Fairy,,
-igglybuff,Normal,Fairy,
-togepi,Fairy,,
-togetic,Fairy,Flying,
-natu,Psychic,Flying,
-xatu,Psychic,Flying,
-mareep,Electric,,
-flaaffy,Electric,,
-ampharos,Electric,,
-bellossom,Grass,,
-marill,Water,Fairy,
-azumarill,Water,Fairy,
-sudowoodo,Rock,,
-politoed,Water,,
-hoppip,Grass,Flying,
-skiploom,Grass,Flying,
-jumpluff,Grass,Flying,
-aipom,Normal,,
-sunkern,Grass,,
-sunflora,Grass,,
-yanma,Bug,Flying,
-wooper,Water,Ground,
-quagsire,Water,Ground,
-espeon,Psychic,,
-umbreon,Dark,,
-murkrow,Dark,Flying,
-slowking,Water,Psychic,
-misdreavus,Ghost,,
-unown,Psychic,,
-wobbuffet,Psychic,,
-girafarig,Normal,Psychic,
-pineco,Bug,,
-forretress,Bug,Steel,
-dunsparce,Normal,,
-gligar,Ground,Flying,
-steelix,Steel,Ground,
-snubbull,Fairy,,
-granbull,Fairy,,
-qwilfish,Water,Poison,
-scizor,Bug,Steel,
-shuckle,Bug,Rock,
-heracross,Bug,Fighting,
-sneasel,Dark,Ice,
-teddiursa,Normal,,
-ursaring,Normal,,
-slugma,Fire,,
-magcargo,Fire,Rock,
-swinub,Ice,Ground,
-piloswine,Ice,Ground,
-corsola,Water,Rock,
-remoraid,Water,,
-octillery,Water,,
-delibird,Ice,Flying,
-mantine,Water,Flying,
-skarmory,Steel,Flying,
-houndour,Dark,Fire,
-houndoom,Dark,Fire,
-kingdra,Water,Dragon,
-phanpy,Ground,,
-donphan,Ground,,
-porygon2,Normal,,
-stantler,Normal,,
-smeargle,Normal,,
-tyrogue,Fighting,,
-hitmontop,Fighting,,
-smoochum,Ice,Psychic,
-elekid,Electric,,
-magby,Fire,,
-miltank,Normal,,
-blissey,Normal,,
-raikou,Electric,,
-entei,Fire,,
-suicune,Water,,
-larvitar,Rock,Ground,
-pupitar,Rock,Ground,
-tyranitar,Rock,Dark,
-lugia,Psychic,Flying,
-ho-oh,Fire,Flying,
-celebi,Psychic,Grass,
-treecko,Grass,,
-grovyle,Grass,,
-sceptile,Grass,,
-torchic,Fire,,
-combusken,Fire,Fighting,
-blaziken,Fire,Fighting,
-mudkip,Water,,
-marshtomp,Water,Ground,
-swampert,Water,Ground,
-poochyena,Dark,,
-mightyena,Dark,,
-zigzagoon,Normal,,
-linoone,Normal,,
-wurmple,Bug,,
-silcoon,Bug,,
-beautifly,Bug,Flying,
-cascoon,Bug,,
-dustox,Bug,Poison,
-lotad,Water,Grass,
-lombre,Water,Grass,
-ludicolo,Water,Grass,
-seedot,Grass,,
-nuzleaf,Grass,Dark,
-shiftry,Grass,Dark,
-taillow,Normal,Flying,
-swellow,Normal,Flying,
-wingull,Water,Flying,
-pelipper,Water,Flying,
-ralts,Psychic,Fairy,
-kirlia,Psychic,Fairy,
-gardevoir,Psychic,Fairy,
-surskit,Bug,Water,
-masquerain,Bug,Flying,
-shroomish,Grass,,
-breloom,Grass,Fighting,
-slakoth,Normal,,
-vigoroth,Normal,,
-slaking,Normal,,
-nincada,Bug,Ground,
-ninjask,Bug,Flying,
-shedinja,Bug,Ghost,
-whismur,Normal,,
-loudred,Normal,,
-exploud,Normal,,
-makuhita,Fighting,,
-hariyama,Fighting,,
-azurill,Normal,Fairy,
-nosepass,Rock,,
-skitty,Normal,,
-delcatty,Normal,,
-sableye,Dark,Ghost,
-mawile,Steel,Fairy,
-aron,Steel,Rock,
-lairon,Steel,Rock,
-aggron,Steel,Rock,
-meditite,Fighting,Psychic,
-medicham,Fighting,Psychic,
-electrike,Electric,,
-manectric,Electric,,
-plusle,Electric,,
-minun,Electric,,
-volbeat,Bug,,
-illumise,Bug,,
-roselia,Grass,Poison,
-gulpin,Poison,,
-swalot,Poison,,
-carvanha,Water,Dark,
-sharpedo,Water,Dark,
-wailmer,Water,,
-wailord,Water,,
-numel,Fire,Ground,
-camerupt,Fire,Ground,
-torkoal,Fire,,
-spoink,Psychic,,
-grumpig,Psychic,,
-spinda,Normal,,
-trapinch,Ground,,
-vibrava,Ground,Dragon,
-flygon,Ground,Dragon,
-cacnea,Grass,,
-cacturne,Grass,Dark,
-swablu,Normal,Flying,
-altaria,Dragon,Flying,
-zangoose,Normal,,
-seviper,Poison,,
-lunatone,Rock,Psychic,
-solrock,Rock,Psychic,
-barboach,Water,Ground,
-whiscash,Water,Ground,
-corphish,Water,,
-crawdaunt,Water,Dark,
-baltoy,Ground,Psychic,
-claydol,Ground,Psychic,
-lileep,Rock,Grass,
-cradily,Rock,Grass,
-anorith,Rock,Bug,
-armaldo,Rock,Bug,
-feebas,Water,,
-milotic,Water,,
-castform,Normal,,
-kecleon,Normal,,
-shuppet,Ghost,,
-banette,Ghost,,
-duskull,Ghost,,
-dusclops,Ghost,,
-tropius,Grass,Flying,
-chimecho,Psychic,,
-absol,Dark,,
-wynaut,Psychic,,
-snorunt,Ice,,
-glalie,Ice,,
-spheal,Ice,Water,
-sealeo,Ice,Water,
-walrein,Ice,Water,
-clamperl,Water,,
-huntail,Water,,
-gorebyss,Water,,
-relicanth,Water,Rock,
-luvdisc,Water,,
-bagon,Dragon,,
-shelgon,Dragon,,
-salamence,Dragon,Flying,
-beldum,Steel,Psychic,
-metang,Steel,Psychic,
-metagross,Steel,Psychic,
-regirock,Rock,,
-regice,Ice,,
-registeel,Steel,,
-latias,Dragon,Psychic,
-latios,Dragon,Psychic,
-kyogre,Water,,
-groudon,Ground,,
-rayquaza,Dragon,Flying,
-jirachi,Steel,Psychic,
-deoxys-normal,Psychic,,
-turtwig,Grass,,
-grotle,Grass,,
-torterra,Grass,Ground,
-chimchar,Fire,,
-monferno,Fire,Fighting,
-infernape,Fire,Fighting,
-piplup,Water,,
-prinplup,Water,,
-empoleon,Water,Steel,
-starly,Normal,Flying,
-staravia,Normal,Flying,
-staraptor,Normal,Flying,
-bidoof,Normal,,
-bibarel,Normal,Water,
-kricketot,Bug,,
-kricketune,Bug,,
-shinx,Electric,,
-luxio,Electric,,
-luxray,Electric,,
-budew,Grass,Poison,
-roserade,Grass,Poison,
-cranidos,Rock,,
-rampardos,Rock,,
-shieldon,Rock,Steel,
-bastiodon,Rock,Steel,
-burmy,Bug,,
-wormadam-plant,Bug,Grass,
-mothim,Bug,Flying,
-combee,Bug,Flying,
-vespiquen,Bug,Flying,
-pachirisu,Electric,,
-buizel,Water,,
-floatzel,Water,,
-cherubi,Grass,,
-cherrim,Grass,,
-shellos,Water,,
-gastrodon,Water,Ground,
-ambipom,Normal,,
-drifloon,Ghost,Flying,
-drifblim,Ghost,Flying,
-buneary,Normal,,
-lopunny,Normal,,
-mismagius,Ghost,,
-honchkrow,Dark,Flying,
-glameow,Normal,,
-purugly,Normal,,
-chingling,Psychic,,
-stunky,Poison,Dark,
-skuntank,Poison,Dark,
-bronzor,Steel,Psychic,
-bronzong,Steel,Psychic,
-bonsly,Rock,,
-mime-jr,Psychic,Fairy,
-happiny,Normal,,
-chatot,Normal,Flying,
-spiritomb,Ghost,Dark,
-gible,Dragon,Ground,
-gabite,Dragon,Ground,
-garchomp,Dragon,Ground,
-munchlax,Normal,,
-riolu,Fighting,,
-lucario,Fighting,Steel,
-hippopotas,Ground,,
-hippowdon,Ground,,
-skorupi,Poison,Bug,
-drapion,Poison,Dark,
-croagunk,Poison,Fighting,
-toxicroak,Poison,Fighting,
-carnivine,Grass,,
-finneon,Water,,
-lumineon,Water,,
-mantyke,Water,Flying,
-snover,Grass,Ice,
-abomasnow,Grass,Ice,
-weavile,Dark,Ice,
-magnezone,Electric,Steel,
-lickilicky,Normal,,
-rhyperior,Ground,Rock,
-tangrowth,Grass,,
-electivire,Electric,,
-magmortar,Fire,,
-togekiss,Fairy,Flying,
-yanmega,Bug,Flying,
-leafeon,Grass,,
-glaceon,Ice,,
-gliscor,Ground,Flying,
-mamoswine,Ice,Ground,
-porygon-z,Normal,,
-gallade,Psychic,Fighting,
-probopass,Rock,Steel,
-dusknoir,Ghost,,
-froslass,Ice,Ghost,
-rotom,Electric,Ghost,
-uxie,Psychic,,
-mesprit,Psychic,,
-azelf,Psychic,,
-dialga,Steel,Dragon,
-palkia,Water,Dragon,
-heatran,Fire,Steel,
-regigigas,Normal,,
-giratina-altered,Ghost,Dragon,
-cresselia,Psychic,,
-phione,Water,,
-manaphy,Water,,
-darkrai,Dark,,
-shaymin-land,Grass,,
-arceus,Normal,,
-victini,Psychic,Fire,
-snivy,Grass,,
-servine,Grass,,
-serperior,Grass,,
-tepig,Fire,,
-pignite,Fire,Fighting,
-emboar,Fire,Fighting,
-oshawott,Water,,
-dewott,Water,,
-samurott,Water,,
-patrat,Normal,,
-watchog,Normal,,
-lillipup,Normal,,
-herdier,Normal,,
-stoutland,Normal,,
-purrloin,Dark,,
-liepard,Dark,,
-pansage,Grass,,
-simisage,Grass,,
-pansear,Fire,,
-simisear,Fire,,
-panpour,Water,,
-simipour,Water,,
-munna,Psychic,,
-musharna,Psychic,,
-pidove,Normal,Flying,
-tranquill,Normal,Flying,
-unfezant,Normal,Flying,
-blitzle,Electric,,
-zebstrika,Electric,,
-roggenrola,Rock,,
-boldore,Rock,,
-gigalith,Rock,,
-woobat,Psychic,Flying,
-swoobat,Psychic,Flying,
-drilbur,Ground,,
-excadrill,Ground,Steel,
-audino,Normal,,
-timburr,Fighting,,
-gurdurr,Fighting,,
-conkeldurr,Fighting,,
-tympole,Water,,
-palpitoad,Water,Ground,
-seismitoad,Water,Ground,
-throh,Fighting,,
-sawk,Fighting,,
-sewaddle,Bug,Grass,
-swadloon,Bug,Grass,
-leavanny,Bug,Grass,
-venipede,Bug,Poison,
-whirlipede,Bug,Poison,
-scolipede,Bug,Poison,
-cottonee,Grass,Fairy,
-whimsicott,Grass,Fairy,
-petilil,Grass,,
-lilligant,Grass,,
-basculin-red-striped,Water,,
-sandile,Ground,Dark,
-krokorok,Ground,Dark,
-krookodile,Ground,Dark,
-darumaka,Fire,,
-darmanitan-standard,Fire,,
-maractus,Grass,,
-dwebble,Bug,Rock,
-crustle,Bug,Rock,
-scraggy,Dark,Fighting,
-scrafty,Dark,Fighting,
-sigilyph,Psychic,Flying,
-yamask,Ghost,,
-cofagrigus,Ghost,,
-tirtouga,Water,Rock,
-carracosta,Water,Rock,
-archen,Rock,Flying,
-archeops,Rock,Flying,
-trubbish,Poison,,
-garbodor,Poison,,
-zorua,Dark,,
-zoroark,Dark,,
-minccino,Normal,,
-cinccino,Normal,,
-gothita,Psychic,,
-gothorita,Psychic,,
-gothitelle,Psychic,,
-solosis,Psychic,,
-duosion,Psychic,,
-reuniclus,Psychic,,
-ducklett,Water,Flying,
-swanna,Water,Flying,
-vanillite,Ice,,
-vanillish,Ice,,
-vanilluxe,Ice,,
-deerling,Normal,Grass,
-sawsbuck,Normal,Grass,
-emolga,Electric,Flying,
-karrablast,Bug,,
-escavalier,Bug,Steel,
-foongus,Grass,Poison,
-amoonguss,Grass,Poison,
-frillish,Water,Ghost,
-jellicent,Water,Ghost,
-alomomola,Water,,
-joltik,Bug,Electric,
-galvantula,Bug,Electric,
-ferroseed,Grass,Steel,
-ferrothorn,Grass,Steel,
-klink,Steel,,
-klang,Steel,,
-klinklang,Steel,,
-tynamo,Electric,,
-eelektrik,Electric,,
-eelektross,Electric,,
-elgyem,Psychic,,
-beheeyem,Psychic,,
-litwick,Ghost,Fire,
-lampent,Ghost,Fire,
-chandelure,Ghost,Fire,
-axew,Dragon,,
-fraxure,Dragon,,
-haxorus,Dragon,,
-cubchoo,Ice,,
-beartic,Ice,,
-cryogonal,Ice,,
-shelmet,Bug,,
-accelgor,Bug,,
-stunfisk,Ground,Electric,
-mienfoo,Fighting,,
-mienshao,Fighting,,
-druddigon,Dragon,,
-golett,Ground,Ghost,
-golurk,Ground,Ghost,
-pawniard,Dark,Steel,
-bisharp,Dark,Steel,
-bouffalant,Normal,,
-rufflet,Normal,Flying,
-braviary,Normal,Flying,
-vullaby,Dark,Flying,
-mandibuzz,Dark,Flying,
-heatmor,Fire,,
-durant,Bug,Steel,
-deino,Dark,Dragon,
-zweilous,Dark,Dragon,
-hydreigon,Dark,Dragon,
-larvesta,Bug,Fire,
-volcarona,Bug,Fire,
-cobalion,Steel,Fighting,
-terrakion,Rock,Fighting,
-virizion,Grass,Fighting,
-tornadus-incarnate,Flying,,
-thundurus-incarnate,Electric,Flying,
-reshiram,Dragon,Fire,
-zekrom,Dragon,Electric,
-landorus-incarnate,Ground,Flying,
-kyurem,Dragon,Ice,
-keldeo-ordinary,Water,Fighting,
-meloetta-aria,Normal,Psychic,
-genesect,Bug,Steel,
-chespin,Grass,,
-quilladin,Grass,,
-chesnaught,Grass,Fighting,
-fennekin,Fire,,
-braixen,Fire,,
-delphox,Fire,Psychic,
-froakie,Water,,
-frogadier,Water,,
-greninja,Water,Dark,
-bunnelby,Normal,,
-diggersby,Normal,Ground,
-fletchling,Normal,Flying,
-fletchinder,Fire,Flying,
-talonflame,Fire,Flying,
-scatterbug,Bug,,
-spewpa,Bug,,
-vivillon,Bug,Flying,
-litleo,Fire,Normal,
-pyroar,Fire,Normal,
-flabebe,Fairy,,
-floette,Fairy,,
-florges,Fairy,,
-skiddo,Grass,,
-gogoat,Grass,,
-pancham,Fighting,,
-pangoro,Fighting,Dark,
-furfrou,Normal,,
-espurr,Psychic,,
-meowstic-male,Psychic,,
-honedge,Steel,Ghost,
-doublade,Steel,Ghost,
-aegislash-blade,Steel,Ghost,
-spritzee,Fairy,,
-aromatisse,Fairy,,
-swirlix,Fairy,,
-slurpuff,Fairy,,
-inkay,Dark,Psychic,
-malamar,Dark,Psychic,
-binacle,Rock,Water,
-barbaracle,Rock,Water,
-skrelp,Poison,Water,
-dragalge,Poison,Dragon,
-clauncher,Water,,
-clawitzer,Water,,
-helioptile,Electric,Normal,
-heliolisk,Electric,Normal,
-tyrunt,Rock,Dragon,
-tyrantrum,Rock,Dragon,
-amaura,Rock,Ice,
-aurorus,Rock,Ice,
-sylveon,Fairy,,
-hawlucha,Fighting,Flying,
-dedenne,Electric,Fairy,
-carbink,Rock,Fairy,
-goomy,Dragon,,
-sliggoo,Dragon,,
-goodra,Dragon,,
-klefki,Steel,Fairy,
-phantump,Ghost,Grass,
-trevenant,Ghost,Grass,
-pumpkaboo-average,Ghost,Grass,
-gourgeist-average,Ghost,Grass,
-bergmite,Ice,,
-avalugg,Ice,,
-noibat,Flying,Dragon,
-noivern,Flying,Dragon,
-xerneas,Fairy,,
-yveltal,Dark,Flying,
-zygarde-50,Dragon,Ground,
-diancie,Rock,Fairy,
-hoopa-confined,Psychic,Ghost,
-volcanion,Fire,Water,
-rowlet,Grass,Flying,
-dartrix,Grass,Flying,
-decidueye,Grass,Ghost,
-litten,Fire,,
-torracat,Fire,,
-incineroar,Fire,Dark,
-popplio,Water,,
-brionne,Water,,
-primarina,Water,Fairy,
-pikipek,Normal,Flying,
-trumbeak,Normal,Flying,
-toucannon,Normal,Flying,
-yungoos,Normal,,
-gumshoos,Normal,,
-grubbin,Bug,,
-charjabug,Bug,Electric,
-vikavolt,Bug,Electric,
-crabrawler,Fighting,,
-crabominable,Fighting,Ice,
-oricorio-baile,Fire,Flying,
-cutiefly,Bug,Fairy,
-ribombee,Bug,Fairy,
-rockruff,Rock,,
-lycanroc-midday,Rock,,
-wishiwashi-solo,Water,,
-mareanie,Poison,Water,
-toxapex,Poison,Water,
-mudbray,Ground,,
-mudsdale,Ground,,
-dewpider,Water,Bug,
-araquanid,Water,Bug,
-fomantis,Grass,,
-lurantis,Grass,,
-morelull,Grass,Fairy,
-shiinotic,Grass,Fairy,
-salandit,Poison,Fire,
-salazzle,Poison,Fire,
-stufful,Normal,Fighting,
-bewear,Normal,Fighting,
-bounsweet,Grass,,
-steenee,Grass,,
-tsareena,Grass,,
-comfey,Fairy,,
-oranguru,Normal,Psychic,
-passimian,Fighting,,
-wimpod,Bug,Water,
-golisopod,Bug,Water,
-sandygast,Ghost,Ground,
-palossand,Ghost,Ground,
-pyukumuku,Water,,
-type-null,Normal,,
-silvally,Normal,,
-minior-meteor,Rock,Flying,
-komala,Normal,,
-turtonator,Fire,Dragon,
-togedemaru,Electric,Steel,
-mimikyu,Ghost,Fairy,
-bruxish,Water,Psychic,
-drampa,Normal,Dragon,
-dhelmise,Ghost,Grass,
-jangmo-o,Dragon,,
-hakamo-o,Dragon,Fighting,
-kommo-o,Dragon,Fighting,
-tapu-koko,Electric,Fairy,
-tapu-lele,Psychic,Fairy,
-tapu-bulu,Grass,Fairy,
-tapu-fini,Water,Fairy,
-cosmog,Psychic,,
-cosmoem,Psychic,,
-solgaleo,Psychic,Steel,
-lunala,Psychic,Ghost,
-nihilego,Rock,Poison,
-buzzwole,Bug,Fighting,
-pheromosa,Bug,Fighting,
-xurkitree,Electric,,
-celesteela,Steel,Flying,
-kartana,Grass,Steel,
-guzzlord,Dark,Dragon,
-necrozma,Psychic,,
-magearna,Steel,Fairy,
-marshadow,Fighting,Ghost,
-poipole,Poison,,
-naganadel,Poison,Dragon,
-stakataka,Rock,Steel,
-blacephalon,Fire,Ghost,
-zeraora,Electric,,
-meltan,Steel,,
-melmetal,Steel,,
+Name,Type1,Type2,Evolution,Classification,Height,Weight,Abilities
+bulbasaur,Grass,Poison,ivysaur,Seed,0.7,6.9,"Overgrow, Chlorophyll"
+ivysaur,Grass,Poison,venusaur,Seed,1,13,"Overgrow, Chlorophyll"
+venusaur,Grass,Poison,,Seed,2,100,"Overgrow, Chlorophyll"
+charmander,Fire,,charmeleon,Lizard,0.6,8.5,"Blaze, Solar Power"
+charmeleon,Fire,,charizard,Flame,1.1,19,"Blaze, Solar Power"
+charizard,Fire,Flying,,Flame,1.7,90.5,"Blaze, Solar Power"
+squirtle,Water,,wartortle,Tiny Turtle,0.5,9,"Torrent, Rain Dish"
+wartortle,Water,,blastoise,Turtle,1,22.5,"Torrent, Rain Dish"
+blastoise,Water,,,Shellfish,1.6,85.5,"Torrent, Rain Dish"
+caterpie,Bug,,metapod,Worm,0.3,2.9,"Shield Dust, Run Away"
+metapod,Bug,,butterfree,Cocoon,0.7,9.9,Shed Skin
+butterfree,Bug,Flying,,Butterfly,1.1,32,"Compoundeyes, Tinted Lens"
+weedle,Bug,Poison,kakuna,Hairy,0.3,3.2,"Shield Dust, Run Away"
+kakuna,Bug,Poison,beedrill,Cocoon,0.6,10,Shed Skin
+beedrill,Bug,Poison,,Poison Bee,1,29.5,"Swarm, Sniper"
+pidgey,Normal,Flying,pidgeotto,Tiny Bird,0.3,1.8,"Keen Eye, Tangled Feet, Big Pecks"
+pidgeotto,Normal,Flying,pidgeot,Bird,1.1,30,"Keen Eye, Tangled Feet, Big Pecks"
+pidgeot,Normal,Flying,,Bird,1.5,39.5,"Keen Eye, Tangled Feet, Big Pecks"
+rattata,Normal,,raticate,Mouse,0.3,3.5,"Run Away, Guts, Hustle, Gluttony, Hustle, Thick Fat"
+raticate,Normal,,,Mouse,0.7,18.5,"Run Away, Guts, Hustle, Gluttony, Hustle, Thick Fat"
+spearow,Normal,Flying,fearow,Tiny Bird,0.3,2,"Keen Eye, Sniper"
+fearow,Normal,Flying,,Beak,1.2,38,"Keen Eye, Sniper"
+ekans,Poison,,arbok,Snake,2,6.9,"Intimidate, Shed Skin, Unnerve"
+arbok,Poison,,,Cobra,3.5,65,"Intimidate, Shed Skin, Unnerve"
+pikachu,Electric,,raichu,Mouse,0.4,6,"Static, Lightningrod"
+raichu,Electric,,,Mouse,0.8,30,"Static, Lightningrod, Surge Surfer"
+sandshrew,Ground,,sandslash,Mouse,0.6,12,"Sand Veil, Sand Rush, Snow Cloak, Slush Rush"
+sandslash,Ground,,,Mouse,1,29.5,"Sand Veil, Sand Rush, Snow Cloak, Slush Rush"
+nidoran-f,Poison,,nidorina,Poison Pin,0.4,7,"Poison Point, Rivalry, Hustle"
+nidorina,Poison,,nidoqueen,Poison Pin,0.8,20,"Poison Point, Rivalry, Hustle"
+nidoqueen,Poison,Ground,,Drill,1.3,60,"Poison Point, Rivalry, Sheer Force"
+nidoran-m,Poison,,nidorino,Poison Pin,0.5,9,"Poison Point, Rivalry, Hustle"
+nidorino,Poison,,nidoking,Poison Pin,0.9,19.5,"Poison Point, Rivalry, Hustle"
+nidoking,Poison,Ground,,Drill,1.4,62,"Poison Point, Rivalry, Sheer Force"
+clefairy,Fairy,,clefable,Fairy,0.6,7.5,"Cute Charm, Magic Guard, Friend Guard"
+clefable,Fairy,,,Fairy,1.3,40,"Cute Charm, Magic Guard, Unaware"
+vulpix,Fire,,ninetales,Fox,0.6,9.9,"Flash Fire, Drought, Snow Cloak, Snow Warning"
+ninetales,Fire,,,Fox,1.1,19.9,"Flash Fire, Drought, Snow Cloak, Snow Warning"
+jigglypuff,Normal,Fairy,,Balloon,0.5,5.5,"Cute Charm, Competitive, Friend Guard"
+wigglytuff,Normal,Fairy,,Balloon,1,12,"Cute Charm, Competitive, Frisk"
+zubat,Poison,Flying,,Bat,0.8,7.5,"Inner Focus, Infiltrator"
+golbat,Poison,Flying,,Bat,1.6,55,"Inner Focus, Infiltrator"
+oddish,Grass,Poison,,Weed,0.5,5.4,"Chlorophyll, Run Away"
+gloom,Grass,Poison,,Weed,0.8,8.6,"Chlorophyll, Stench"
+vileplume,Grass,Poison,,Flower,1.2,18.6,"Chlorophyll, Effect Spore"
+paras,Bug,Grass,,Mushroom,0.3,5.4,"Effect Spore, Dry Skin, Damp"
+parasect,Bug,Grass,,Mushroom,1,29.5,"Effect Spore, Dry Skin, Damp"
+venonat,Bug,Poison,,Insect,1,30,"Compoundeyes, Tinted Lens, Run Away"
+venomoth,Bug,Poison,,Poison Moth,1.5,12.5,"Shield Dust, Tinted Lens, Wonder Skin "
+diglett,Ground,,dugtrio,Mole,0.2,0.8,"Sand Veil, Arena Trap, Sand Force, Sand Veil, Tangling Hair, Sand Force"
+dugtrio,Ground,,,Mole,0.7,33.3,"Sand Veil, Arena Trap, Sand Force, Sand Veil, Tangling Hair, Sand Force"
+meowth,Normal,,persian,Scratch Cat,0.4,4.2,"Pickup, Technician, Unnerve, Pickup, Technician, Rattled"
+persian,Normal,,,Classy Cat,1,32,"Limber, Technician, Unnerve, Fur Coat, Technician, Rattled"
+psyduck,Water,,golduck,Duck,0.8,19.6,"Damp, Cloud Nine, Swift Swim"
+golduck,Water,,,Duck,1.7,76.6,"Damp, Cloud Nine, Swift Swim"
+mankey,Fighting,,primeape,Pig Monkey,0.5,28,"Vital Spirit, Anger Point, Defiant"
+primeape,Fighting,,,Pig Monkey,1,32,"Vital Spirit, Anger Point, Defiant"
+growlithe,Fire,,arcanine,Puppy,0.7,19,"Intimidate, Flash Fire, Justified"
+arcanine,Fire,,,Legendary,1.9,155,"Intimidate, Flash Fire, Justified"
+poliwag,Water,,poliwhirl,Tadpole,0.6,12.4,"Water Absorb, Damp, Swift Swim"
+poliwhirl,Water,,poliwrath,Tadpole,1,20,"Water Absorb, Damp, Swift Swim"
+poliwrath,Water,Fighting,,Tadpole,1.3,54,"Water Absorb, Damp, Swift Swim"
+abra,Psychic,,kadabra,Psi,0.9,19.5,"Synchronize, Inner Focus, Magic Guard"
+kadabra,Psychic,,alakazam,Psi,1.3,56.5,"Synchronize, Inner Focus, Magic Guard"
+alakazam,Psychic,,,Psi,1.5,48,"Synchronize, Inner Focus, Magic Guard"
+machop,Fighting,,,Superpower,0.8,19.5,"Guts, No Guard, Steadfast"
+machoke,Fighting,,,Superpower,1.5,70.5,"Guts, No Guard, Steadfast"
+machamp,Fighting,,,Superpower,1.6,130,"Guts, No Guard, Steadfast"
+bellsprout,Grass,Poison,,Flower,0.7,4,"Chlorophyll, Gluttony"
+weepinbell,Grass,Poison,,Flycatcher,1,6.4,"Chlorophyll, Gluttony"
+victreebel,Grass,Poison,,Flycatcher,1.7,15.5,"Chlorophyll, Gluttony"
+tentacool,Water,Poison,,Jellyfish,0.9,45.5,"Clear Body, Liquid Ooze, Rain Dish"
+tentacruel,Water,Poison,,Jellyfish,1.6,55,"Clear Body, Liquid Ooze, Rain Dish"
+geodude,Rock,Ground,,Rock,0.4,20,"Rock Head, Sturdy, Sand Veil, Magnet Pull, Sturdy, Galvanize"
+graveler,Rock,Ground,,Rock,1,105,"Rock Head, Sturdy, Sand Veil, Magnet Pull, Sturdy, Galvanize"
+golem,Rock,Ground,,Megaton,1.4,300,"Rock Head, Sturdy, Sand Veil, Magnet Pull, Sturdy, Galvanize"
+ponyta,Fire,,,Fire Horse,1,30,"Run Away, Flash Fire, Flame Body"
+rapidash,Fire,,,Fire Horse,1.7,95,"Run Away, Flash Fire, Flame Body"
+slowpoke,Water,Psychic,,Dopey,1.2,36,"Oblivious, Own Tempo, Regenerator"
+slowbro,Water,Psychic,,Hermit Crab,1.6,78.5,"Oblivious, Own Tempo, Regenerator"
+magnemite,Electric,Steel,,Magnet,0.3,6,"Magnet Pull, Sturdy, Analytic"
+magneton,Electric,Steel,,Magnet,1,60,"Magnet Pull, Sturdy, Analytic"
+farfetchd,Normal,Flying,,Wild Duck,0.8,15,"Keen Eye, Inner Focus, Defiant"
+doduo,Normal,Flying,,Twin Bird,1.4,39.2,"Run Away, Early Bird, Tangled Feet"
+dodrio,Normal,Flying,,Triple Bird,1.8,85.2,"Run Away, Early Bird, Tangled Feet"
+seel,Water,,,Sea Lion,1.1,90,"Thick Fat, Hydration, Ice Body"
+dewgong,Water,Ice,,Sea Lion,1.7,120,"Thick Fat, Hydration, Ice Body"
+grimer,Poison,,,Sludge,0.9,30,"Stench, Sticky Hold, Poison Touch, Poison Touch, Gluttony, Power of Alchemy"
+muk,Poison,,,Sludge,1.2,30,"Stench, Sticky Hold, Poison Touch, Poison Touch, Gluttony, Power of Alchemy"
+shellder,Water,,,Bivalve,0.3,4,"Shell Armor, Skill Link, Overcoat"
+cloyster,Water,Ice,,Bivalve,1.5,132.5,"Shell Armor, Skill Link, Overcoat"
+gastly,Ghost,Poison,,Gas,1.3,0.1,Levitate
+haunter,Ghost,Poison,,Gas,1.6,0.1,Levitate
+gengar,Ghost,Poison,,Shadow,1.5,40.5,Cursed Body
+onix,Rock,Ground,,Rock Snake,8.8,210,"Rock Head, Sturdy, Weak Armor"
+drowzee,Psychic,,,Hypnosis,1,32.4,"Insomnia, Forewarn, Inner Focus"
+hypno,Psychic,,,Hypnosis,1.6,75.6,"Insomnia, Forewarn, Inner Focus"
+krabby,Water,,,River Crab,0.4,6.5,"Hyper Cutter, Shell Armor, Sheer Force"
+kingler,Water,,,Pincer,1.3,60,"Hyper Cutter, Shell Armor, Sheer Force"
+voltorb,Electric,,,Ball,0.5,10.4,"Soundproof, Static, Aftermath"
+electrode,Electric,,,Ball,1.2,66.6,"Soundproof, Static, Aftermath"
+exeggcute,Grass,Psychic,,Egg,0.4,2.5,"Chlorophyll, Harvest"
+exeggutor,Grass,Psychic,,Coconut,2,120,"Chlorophyll, Harvest, Frisk, Harvest"
+cubone,Ground,,,Lonely,0.4,6.5,"Rock Head, Lightningrod, Battle Armor"
+marowak,Ground,,,Bone Keeper,1,45,"Rock Head, Lightningrod, Battle Armor, Cursed Body, Lightningrod, Rock Head"
+hitmonlee,Fighting,,,Kicking,1.5,49.8,"Limber, Reckless, Unburden"
+hitmonchan,Fighting,,,Punching,1.4,50.2,"Keen Eye, Iron Fist, Inner Focus"
+lickitung,Normal,,,Licking,1.2,65.5,"Own Tempo, Oblivious, Cloud Nine"
+koffing,Poison,,,Poison Gas,0.6,1,Levitate
+weezing,Poison,,,Poison Gas,1.2,9.5,Levitate
+rhyhorn,Ground,Rock,,Spikes,1,115,"Lightningrod, Rock Head, Reckless"
+rhydon,Ground,Rock,,Drill,1.9,120,"Lightningrod, Rock Head, Reckless"
+chansey,Normal,,,Egg,1.1,34.6,"Natural Cure, Serene Grace, Healer"
+tangela,Grass,,,Vine,1,35,"Chlorophyll, Leaf Guard, Regenerator"
+kangaskhan,Normal,,,Parent,2.2,80,"Early Bird, Scrappy, Inner Focus"
+horsea,Water,,,Dragon,0.4,8,"Swift Swim, Sniper, Damp"
+seadra,Water,,,Dragon,1.2,25,"Poison Point, Sniper, Damp"
+goldeen,Water,,,Goldfish,0.6,15,"Swift Swim, Water Veil, Lightningrod"
+seaking,Water,,,Goldfish,1.3,39,"Swift Swim, Water Veil, Lightningrod"
+staryu,Water,,,Starshape,0.8,34.5,"Illuminate, Natural Cure, Analytic"
+starmie,Water,Psychic,,Mysterious,1.1,80,"Illuminate, Natural Cure, Analytic"
+mr-mime,Psychic,Fairy,,Barrier,1.3,54.5,"Soundproof, Filter, Technician"
+scyther,Bug,Flying,,Mantis,1.5,56,"Swarm, Technician, Steadfast"
+jynx,Ice,Psychic,,Humanshape,1.4,40.6,"Oblivious, Forewarn, Dry Skin"
+electabuzz,Electric,,,Electric,1.1,30,"Static, Vital Spirit"
+magmar,Fire,,,Spitfire,1.3,44.5,"Flame Body, Vital Spirit"
+pinsir,Bug,,,Stagbeetle,1.5,55,"Hyper Cutter, Mold Breaker, Moxie"
+tauros,Normal,,,Wild Bull,1.4,88.4,"Intimidate, Anger Point, Sheer Force"
+magikarp,Water,,,Fish,0.9,10,"Swift Swim, Rattled"
+gyarados,Water,Flying,,Atrocious,6.5,235,"Intimidate, Moxie"
+lapras,Water,Ice,,Transport,2.5,220,"Water Absorb, Shell Armor, Hydration"
+ditto,Normal,,,Transform,0.3,4,"Limber, Imposter"
+eevee,Normal,,,Evolution,0.3,6.5,"Run Away, Adaptability, Anticipation"
+vaporeon,Water,,,Bubble Jet,1,29,"Water Absorb, Hydration"
+jolteon,Electric,,,Lightning,0.8,24.5,"Volt Absorb, Quick Feet"
+flareon,Fire,,,Flame,0.9,25,"Flash Fire, Guts"
+porygon,Normal,,,Virtual,0.8,36.5,"Trace, Download, Analytic"
+omanyte,Rock,Water,,Spiral,0.4,7.5,"Swift Swim, Shell Armor, Weak Armor"
+omastar,Rock,Water,,Spiral,1,35,"Swift Swim, Shell Armor, Weak Armor"
+kabuto,Rock,Water,,Shellfish,0.5,11.5,"Swift Swim, Battle Armor, Weak Armor"
+kabutops,Rock,Water,,Shellfish,1.3,40.5,"Swift Swim, Battle Armor, Weak Armor"
+aerodactyl,Rock,Flying,,Fossil,1.8,59,"Rock Head, Pressure, Unnerve"
+snorlax,Normal,,,Sleeping,2.1,460,"Immunity, Thick Fat, Gluttony"
+articuno,Ice,Flying,,Freeze,1.7,55.4,"Pressure, Snow Cloak"
+zapdos,Electric,Flying,,Electric,1.6,52.6,"Pressure, Static"
+moltres,Fire,Flying,,Flame,2,60,"Pressure, Flame Body"
+dratini,Dragon,,,Dragon,1.8,3.3,"Shed Skin, Marvel Scale"
+dragonair,Dragon,,,Dragon,4,16.5,"Shed Skin, Marvel Scale"
+dragonite,Dragon,Flying,,Dragon,2.2,210,"Inner Focus, Multiscale"
+mewtwo,Psychic,,,Genetic,2,122,"Pressure, Unnerve"
+mew,Psychic,,,New Species,0.4,4,Synchronize
+chikorita,Grass,,,Leaf,0.9,6.4,"Overgrow, Leaf Guard"
+bayleef,Grass,,,Leaf,1.2,15.8,"Overgrow, Leaf Guard"
+meganium,Grass,,,Herb,1.8,100.5,"Overgrow, Leaf Guard"
+cyndaquil,Fire,,,Fire Mouse,0.5,7.9,"Blaze, Flash Fire"
+quilava,Fire,,,Volcano,0.9,19,"Blaze, Flash Fire"
+typhlosion,Fire,,,Volcano,1.7,79.5,"Blaze, Flash Fire"
+totodile,Water,,,Big Jaw,0.6,9.5,"Torrent, Sheer Force"
+croconaw,Water,,,Big Jaw,1.1,25,"Torrent, Sheer Force"
+feraligatr,Water,,,Big Jaw,2.3,88.8,"Torrent, Sheer Force"
+sentret,Normal,,,Scout,0.8,6,"Run Away, Keen Eye, Frisk"
+furret,Normal,,,Long Body,1.8,32.5,"Run Away, Keen Eye, Frisk"
+hoothoot,Normal,Flying,,Owl,0.7,21.2,"Insomnia, Keen Eye, Tinted Lens"
+noctowl,Normal,Flying,,Owl,1.6,40.8,"Insomnia, Keen Eye, Tinted Lens"
+ledyba,Bug,Flying,,Five Star,1,10.8,"Swarm, Early Bird, Rattled"
+ledian,Bug,Flying,,Five Star,1.4,35.6,"Swarm, Early Bird, Iron Fist"
+spinarak,Bug,Poison,,String Spit,0.5,8.5,"Swarm, Insomnia, Sniper"
+ariados,Bug,Poison,,Long Leg,1.1,33.5,"Swarm, Insomnia, Sniper"
+crobat,Poison,Flying,,Bat,1.8,75,"Inner Focus, Infiltrator"
+chinchou,Water,Electric,,Angler,0.5,12,"Volt Absorb, Illuminate, Water Absorb"
+lanturn,Water,Electric,,Light,1.2,22.5,"Volt Absorb, Illuminate, Water Absorb"
+pichu,Electric,,,Tiny Mouse,0.3,2,"Static, Lightningrod"
+cleffa,Fairy,,,Star Shape,0.3,3,"Cute Charm, Magic Guard, Friend Guard"
+igglybuff,Normal,Fairy,,Balloon,0.3,1,"Cute Charm, Competitive, Friend Guard"
+togepi,Fairy,,,Spike Ball,0.3,1.5,"Hustle, Serene Grace, Super Luck"
+togetic,Fairy,Flying,,Happiness,0.6,3.2,"Hustle, Serene Grace, Super Luck"
+natu,Psychic,Flying,,Little Bird,0.2,2,"Synchronize, Early Bird, Magic Bounce"
+xatu,Psychic,Flying,,Mystic,1.5,15,"Synchronize, Early Bird, Magic Bounce"
+mareep,Electric,,,Wool,0.6,7.8,"Static, Plus"
+flaaffy,Electric,,,Wool,0.8,13.3,"Static, Plus"
+ampharos,Electric,,,Light,1.4,61.5,"Static, Plus"
+bellossom,Grass,,,Flower,0.4,5.8,"Chlorophyll, Healer"
+marill,Water,Fairy,,Aquamouse,0.4,8.5,"Thick Fat, Huge Power, Sap Sipper"
+azumarill,Water,Fairy,,Aquarabbit,0.8,28.5,"Thick Fat, Huge Power, Sap Sipper"
+sudowoodo,Rock,,,Imitation,1.2,38,"Sturdy, Rock Head, Rattled"
+politoed,Water,,,Frog,1.1,33.9,"Water Absorb, Damp, Drizzle"
+hoppip,Grass,Flying,,Cottonweed,0.4,0.5,"Chlorophyll, Leaf Guard, Infiltrator"
+skiploom,Grass,Flying,,Cottonweed,0.6,1,"Chlorophyll, Leaf Guard, Infiltrator"
+jumpluff,Grass,Flying,,Cottonweed,0.8,3,"Chlorophyll, Leaf Guard, Infiltrator"
+aipom,Normal,,,Long Tail,0.8,11.5,"Run Away, Pickup, Skill Link"
+sunkern,Grass,,,Seed,0.3,1.8,"Chlorophyll, Solar Power, Early Bird"
+sunflora,Grass,,,Sun,0.8,8.5,"Chlorophyll, Solar Power, Early Bird"
+yanma,Bug,Flying,,Clear Wing,1.2,38,"Speed Boost, Compoundeyes, Frisk"
+wooper,Water,Ground,,Water Fish,0.4,8.5,"Damp, Water Absorb, Unaware"
+quagsire,Water,Ground,,Water Fish,1.4,75,"Damp, Water Absorb, Unaware"
+espeon,Psychic,,,Sun,0.9,26.5,"Synchronize, Magic Bounce"
+umbreon,Dark,,,Moonlight,1,27,"Synchronize, Inner Focus"
+murkrow,Dark,Flying,,Darkness,0.5,2.1,"Insomnia, Super Luck, Prankster"
+slowking,Water,Psychic,,Royal,2,79.5,"Oblivious, Own Tempo, Regenerator"
+misdreavus,Ghost,,,Screech,0.7,1,Levitate
+unown,Psychic,,,Symbol,0.5,5,Levitate
+wobbuffet,Psychic,,,Patient,1.3,28.5,"Shadow Tag, Telepathy"
+girafarig,Normal,Psychic,,Long Neck,1.5,41.5,"Inner Focus, Early Bird, Sap Sipper"
+pineco,Bug,,,Bagworm,0.6,7.2,"Sturdy, Overcoat"
+forretress,Bug,Steel,,Bagworm,1.2,125.8,"Sturdy, Overcoat"
+dunsparce,Normal,,,Land Snake,1.5,14,"Serene Grace, Run Away, Rattled"
+gligar,Ground,Flying,,Flyscorpion,1.1,64.8,"Hyper Cutter, Sand Veil, Immunity"
+steelix,Steel,Ground,,Iron Snake,9.2,400,"Rock Head, Sturdy, Sheer Force"
+snubbull,Fairy,,,Fairy,0.6,7.8,"Intimidate, Run Away, Rattled"
+granbull,Fairy,,,Fairy,1.4,48.7,"Intimidate, Quick Feet, Rattled"
+qwilfish,Water,Poison,,Balloon,0.5,3.9,"Poison Point, Swift Swim, Intimidate"
+scizor,Bug,Steel,,Pincer,1.8,118,"Swarm, Technician, Light Metal"
+shuckle,Bug,Rock,,Mold,0.6,20.5,"Sturdy, Gluttony, Contrary"
+heracross,Bug,Fighting,,Singlehorn,1.5,54,"Swarm, Guts, Moxie"
+sneasel,Dark,Ice,,Sharp Claw,0.9,28,"Inner Focus, Keen Eye, Pickpocket"
+teddiursa,Normal,,,Little Bear,0.6,8.8,"Pickup, Quick Feet, Honey Gather"
+ursaring,Normal,,,Hibernator,1.8,125.8,"Guts, Quick Feet, Unnerve"
+slugma,Fire,,,Lava,0.7,35,"Magma Armor, Flame Body, Weak Armor"
+magcargo,Fire,Rock,,Lava,0.8,55,"Magma Armor, Flame Body, Weak Armor"
+swinub,Ice,Ground,,Pig,0.4,6.5,"Oblivious, Snow Cloak, Thick Fat"
+piloswine,Ice,Ground,,Swine,1.1,55.8,"Oblivious, Snow Cloak, Thick Fat"
+corsola,Water,Rock,,Coral,0.6,5,"Hustle, Natural Cure, Regenerator"
+remoraid,Water,,,Jet,0.6,12,"Hustle, Sniper, Moody"
+octillery,Water,,,Jet,0.9,28.5,"Suction Cups, Sniper, Moody"
+delibird,Ice,Flying,,Delivery,0.9,16,"Vital Spirit, Hustle, Insomnia"
+mantine,Water,Flying,,Kite,2.1,220,"Swift Swim, Water Absorb, Water Veil"
+skarmory,Steel,Flying,,Armor Bird,1.7,50.5,"Keen Eye, Sturdy, Weak Armor"
+houndour,Dark,Fire,,Dark,0.6,10.8,"Early Bird, Flash Fire, Unnerve"
+houndoom,Dark,Fire,,Dark,1.4,35,"Early Bird, Flash Fire, Unnerve"
+kingdra,Water,Dragon,,Dragon,1.8,152,"Swift Swim, Sniper, Damp"
+phanpy,Ground,,,Long Nose,0.5,33.5,"Pickup, Sand Veil"
+donphan,Ground,,,Armor,1.1,120,"Sturdy, Sand Veil"
+porygon2,Normal,,,Virtual,0.6,32.5,"Trace, Download, Analytic"
+stantler,Normal,,,Big Horn,1.4,71.2,"Intimidate, Frisk, Sap Sipper"
+smeargle,Normal,,,Painter,1.2,58,"Own Tempo, Technician, Moody"
+tyrogue,Fighting,,,Scuffle,0.7,21,"Guts, Steadfast, Vital Spirit"
+hitmontop,Fighting,,,Handstand,1.4,48,"Intimidate, Technician, Steadfast"
+smoochum,Ice,Psychic,,Kiss,0.4,6,"Oblivious, Forewarn, Hydration"
+elekid,Electric,,,Electric,0.6,23.5,"Static, Vital Spirit"
+magby,Fire,,,Live Coal,0.7,21.4,"Flame Body, Vital Spirit"
+miltank,Normal,,,Milk Cow,1.2,75.5,"Thick Fat, Scrappy, Sap Sipper"
+blissey,Normal,,,Happiness,1.5,46.8,"Natural Cure, Serene Grace, Healer"
+raikou,Electric,,,Thunder,1.9,178,"Pressure, Inner Focus"
+entei,Fire,,,Volcano,2.1,198,"Pressure, Inner Focus"
+suicune,Water,,,Aurora,2,187,"Pressure, Inner Focus"
+larvitar,Rock,Ground,,Rock Skin,0.6,72,"Guts, Sand Veil"
+pupitar,Rock,Ground,,Hard Shell,1.2,152,Shed Skin
+tyranitar,Rock,Dark,,Armor,2,202,"Sand Stream, Unnerve"
+lugia,Psychic,Flying,,Diving,5.2,216,"Pressure, Multiscale"
+ho-oh,Fire,Flying,,Rainbow,3.8,199,"Pressure, Regenerator"
+celebi,Psychic,Grass,,Time Travel,0.6,5,Natural Cure
+treecko,Grass,,,Wood Gecko,0.5,5,"Overgrow, Unburden"
+grovyle,Grass,,,Wood Gecko,0.9,21.6,"Overgrow, Unburden"
+sceptile,Grass,,,Forest,1.7,52.2,"Overgrow, Unburden"
+torchic,Fire,,,Chick,0.4,2.5,"Blaze, Speed Boost"
+combusken,Fire,Fighting,,Young Fowl,0.9,19.5,"Blaze, Speed Boost"
+blaziken,Fire,Fighting,,Blaze,1.9,52,"Blaze, Speed Boost"
+mudkip,Water,,,Mud Fish,0.4,7.6,"Torrent, Damp"
+marshtomp,Water,Ground,,Mud Fish,0.7,28,"Torrent, Damp"
+swampert,Water,Ground,,Mud Fish,1.5,81.9,"Torrent, Damp"
+poochyena,Dark,,,Bite,0.5,13.6,"Run Away, Quick Feet, Rattled"
+mightyena,Dark,,,Bite,1,37,"Intimidate, Quick Feet, Moxie"
+zigzagoon,Normal,,,Tiny Racoon,0.4,17.5,"Pickup, Gluttony, Quick Feet"
+linoone,Normal,,,Rush,0.5,32.5,"Pickup, Gluttony, Quick Feet"
+wurmple,Bug,,,Worm,0.3,3.6,"Shield Dust, Run Away"
+silcoon,Bug,,,Cocoon,0.6,10,Shed Skin
+beautifly,Bug,Flying,,Butterfly,1,28.4,"Swarm, Rivalry"
+cascoon,Bug,,,Cocoon,0.7,11.5,Shed Skin
+dustox,Bug,Poison,,Poison Moth,1.2,31.6,"Shield Dust, Compoundeyes"
+lotad,Water,Grass,,Water Weed,0.5,2.6,"Swift Swim, Rain Dish, Own Tempo"
+lombre,Water,Grass,,Jolly,1.2,32.5,"Swift Swim, Rain Dish, Own Tempo"
+ludicolo,Water,Grass,,Carefree,1.5,55,"Swift Swim, Rain Dish, Own Tempo"
+seedot,Grass,,,Acorn,0.5,4,"Chlorophyll, Early Bird, Pickpocket"
+nuzleaf,Grass,Dark,,Wily,1,28,"Chlorophyll, Early Bird, Pickpocket"
+shiftry,Grass,Dark,,Wickid,1.3,59.6,"Chlorophyll, Early Bird, Pickpocket"
+taillow,Normal,Flying,,TinySwallow,0.3,2.3,"Guts, Scrappy"
+swellow,Normal,Flying,,Swallow,0.7,19.8,"Guts, Scrappy"
+wingull,Water,Flying,,Seagull,0.6,9.5,"Keen Eye, Hydration, Rain Dish"
+pelipper,Water,Flying,,Water Bird,1.2,28,"Keen Eye, Drizzle, Rain Dish"
+ralts,Psychic,Fairy,,Feeling,0.4,6.6,"Synchronize, Trace, Telepathy"
+kirlia,Psychic,Fairy,,Emotion,0.8,20.2,"Synchronize, Trace, Telepathy"
+gardevoir,Psychic,Fairy,,Embrace,1.6,48.4,"Synchronize, Trace, Telepathy"
+surskit,Bug,Water,,Pond Skater,0.5,1.7,"Swift Swim, Rain Dish"
+masquerain,Bug,Flying,,Eyeball,0.8,3.6,"Intimidate, Unnerve"
+shroomish,Grass,,,Mushroom,0.4,4.5,"Effect Spore, Poison Heal, Quick Feet"
+breloom,Grass,Fighting,,Mushroom,1.2,39.2,"Effect Spore, Poison Heal, Technician"
+slakoth,Normal,,,Slacker,0.8,24,Truant
+vigoroth,Normal,,,Wild Monkey,1.4,46.5,Vital Spirit
+slaking,Normal,,,Lazy,2,130.5,Truant
+nincada,Bug,Ground,,Trainee,0.5,5.5,"Compoundeyes, Run Away"
+ninjask,Bug,Flying,,Ninja,0.8,12,"Speed Boost, Infiltrator"
+shedinja,Bug,Ghost,,Shed,0.8,1.2,Wonder Guard
+whismur,Normal,,,Whisper,0.6,16.3,"Soundproof, Rattled"
+loudred,Normal,,,Big Voice,1,40.5,"Soundproof, Scrappy"
+exploud,Normal,,,Loud Noise,1.5,84,"Soundproof, Scrappy"
+makuhita,Fighting,,,Guts,1,86.4,"Thick Fat, Guts, Sheer Force"
+hariyama,Fighting,,,Arm Thrust,2.3,253.8,"Thick Fat, Guts, Sheer Force"
+azurill,Normal,Fairy,,Polka Dot,0.2,2,"Thick Fat, Huge Power, Sap Sipper"
+nosepass,Rock,,,Compass,1,97,"Sturdy, Magnet Pull, Sand Force"
+skitty,Normal,,,Kitten,0.6,11,"Cute Charm, Normalize, Wonder Skin "
+delcatty,Normal,,,Prim,1.1,32.6,"Cute Charm, Normalize, Wonder Skin "
+sableye,Dark,Ghost,,Darkness,0.5,11,"Keen Eye, Stall, Prankster"
+mawile,Steel,Fairy,,Deceiver,0.6,11.5,"Hyper Cutter, Intimidate, Sheer Force"
+aron,Steel,Rock,,Iron Armor,0.4,60,"Sturdy, Rock Head, Heavy Metal"
+lairon,Steel,Rock,,Iron Armor,0.9,120,"Sturdy, Rock Head, Heavy Metal"
+aggron,Steel,Rock,,Iron Armor,2.1,360,"Sturdy, Rock Head, Heavy Metal"
+meditite,Fighting,Psychic,,Meditate,0.6,11.2,"Pure Power, Telepathy"
+medicham,Fighting,Psychic,,Meditate,1.3,31.5,"Pure Power, Telepathy"
+electrike,Electric,,,Lightning,0.6,15.2,"Static, Lightningrod, Minus"
+manectric,Electric,,,Discharge,1.5,40.2,"Static, Lightningrod, Minus"
+plusle,Electric,,,Cheering,0.4,4.2,"Plus, Lightningrod"
+minun,Electric,,,Cheering,0.4,4.2,"Minus, Volt Absorb"
+volbeat,Bug,,,Firefly,0.7,17.7,"Illuminate, Swarm, Prankster"
+illumise,Bug,,,Firefly,0.6,17.7,"Oblivious, Tinted Lens, Prankster"
+roselia,Grass,Poison,,Thorn,0.3,2,"Natural Cure, Poison Point, Leaf Guard"
+gulpin,Poison,,,Stomach,0.4,10.3,"Liquid Ooze, Sticky Hold, Gluttony"
+swalot,Poison,,,Poison Bag,1.7,80,"Liquid Ooze, Sticky Hold, Gluttony"
+carvanha,Water,Dark,,Savage,0.8,20.8,"Rough Skin, Speed Boost"
+sharpedo,Water,Dark,,Brutal,1.8,88.8,"Rough Skin, Speed Boost"
+wailmer,Water,,,Ball Whale,2,130,"Water Veil, Oblivious, Pressure"
+wailord,Water,,,Float Whale,14.5,398,"Water Veil, Oblivious, Pressure"
+numel,Fire,Ground,,Numb,0.7,24,"Oblivious, Simple, Own Tempo"
+camerupt,Fire,Ground,,Eruption,1.9,220,"Magma Armor, Solid Rock, Anger Point"
+torkoal,Fire,,,Coal,0.5,80.4,"White Smoke, Drought, Shell Armor"
+spoink,Psychic,,,Bounce,0.7,30.6,"Thick Fat, Own Tempo, Gluttony"
+grumpig,Psychic,,,Manipulate,0.9,71.5,"Thick Fat, Own Tempo, Gluttony"
+spinda,Normal,,,Spot Panda,1.1,5,"Own Tempo, Tangled Feet, Contrary"
+trapinch,Ground,,,Ant Pit,0.7,15,"Hyper Cutter, Arena Trap, Sheer Force"
+vibrava,Ground,Dragon,,Vibration,1.1,15.3,Levitate
+flygon,Ground,Dragon,,Mystic,2,82,Levitate
+cacnea,Grass,,,Cactus,0.4,51.3,"Sand Veil, Water Absorb"
+cacturne,Grass,Dark,,Scarecrow,1.3,77.4,"Sand Veil, Water Absorb"
+swablu,Normal,Flying,,Cotton Bird,0.4,1.2,"Natural Cure, Cloud Nine"
+altaria,Dragon,Flying,,Humming,1.1,20.6,"Natural Cure, Cloud Nine"
+zangoose,Normal,,,Cat Ferret,1.3,40.3,"Immunity, Toxic Boost"
+seviper,Poison,,,Fang Snake,2.7,52.5,"Shed Skin, Infiltrator"
+lunatone,Rock,Psychic,,Meteorite,1,168,Levitate
+solrock,Rock,Psychic,,Meteorite,1.2,154,Levitate
+barboach,Water,Ground,,Whiskers,0.4,1.9,"Oblivious, Anticipation, Hydration"
+whiscash,Water,Ground,,Whiskers,0.9,23.6,"Oblivious, Anticipation, Hydration"
+corphish,Water,,,Ruffian,0.6,11.5,"Hyper Cutter, Shell Armor, Adaptability"
+crawdaunt,Water,Dark,,Rogue,1.1,32.8,"Hyper Cutter, Shell Armor, Adaptability"
+baltoy,Ground,Psychic,,Clay Doll,0.5,21.5,Levitate
+claydol,Ground,Psychic,,Clay Doll,1.5,108,Levitate
+lileep,Rock,Grass,,Sea Lily,1,23.8,"Suction Cups, Storm Drain"
+cradily,Rock,Grass,,Barnacle,1.5,60.4,"Suction Cups, Storm Drain"
+anorith,Rock,Bug,,Old Shrimp,0.7,12.5,"Battle Armor, Swift Swim"
+armaldo,Rock,Bug,,Plate,1.5,68.2,"Battle Armor, Swift Swim"
+feebas,Water,,,Fish,0.6,7.4,"Swift Swim, Oblivious, Adaptability"
+milotic,Water,,,Tender,6.2,162,"Marvel Scale, Competitive, Cute Charm"
+castform,Normal,,,Weather,0.3,0.8,Forecast
+kecleon,Normal,,,Color Swap,1,22,"Color Change, Protean"
+shuppet,Ghost,,,Puppet,0.6,2.3,"Insomnia, Frisk, Cursed Body"
+banette,Ghost,,,Marionette,1.1,12.5,"Insomnia, Frisk, Cursed Body"
+duskull,Ghost,,,Requiem,0.8,15,"Levitate, Frisk"
+dusclops,Ghost,,,Beckon,1.6,30.6,"Pressure, Frisk"
+tropius,Grass,Flying,,Fruit,2,100,"Chlorophyll, Solar Power, Harvest"
+chimecho,Psychic,,,Wind Chime,0.6,1,Levitate
+absol,Dark,,,Disaster,1.2,47,"Pressure, Super Luck, Justified"
+wynaut,Psychic,,,Bright,0.6,14,"Shadow Tag, Telepathy"
+snorunt,Ice,,,Snow Hat,0.7,16.8,"Inner Focus, Ice Body, Moody"
+glalie,Ice,,,Face,1.5,256.5,"Inner Focus, Ice Body, Moody"
+spheal,Ice,Water,,Clap,0.8,39.5,"Thick Fat, Ice Body, Oblivious"
+sealeo,Ice,Water,,Ball Roll,1.1,87.6,"Thick Fat, Ice Body, Oblivious"
+walrein,Ice,Water,,Ice Break,1.4,150.6,"Thick Fat, Ice Body, Oblivious"
+clamperl,Water,,,Bivalve,0.4,52.5,"Shell Armor, Rattled"
+huntail,Water,,,Deep Sea,1.7,27,"Swift Swim, Water Veil"
+gorebyss,Water,,,South Sea,1.8,22.6,"Swift Swim, Hydration"
+relicanth,Water,Rock,,Longevity,1,23.4,"Swift Swim, Rock Head, Sturdy"
+luvdisc,Water,,,Rendezvous,0.6,8.7,"Swift Swim, Hydration"
+bagon,Dragon,,,Rock Head,0.6,42.1,"Rock Head, Sheer Force"
+shelgon,Dragon,,,Endurance,1.1,110.5,"Rock Head, Overcoat"
+salamence,Dragon,Flying,,Dragon,1.5,102.6,"Intimidate, Moxie"
+beldum,Steel,Psychic,,Iron Ball,0.6,95.2,"Clear Body, Light Metal"
+metang,Steel,Psychic,,Iron Claw,1.2,202.5,"Clear Body, Light Metal"
+metagross,Steel,Psychic,,Iron Leg,1.6,550,"Clear Body, Light Metal"
+regirock,Rock,,,Rock Peak,1.7,230,"Clear Body, Sturdy"
+regice,Ice,,,Iceberg,1.8,175,"Clear Body, Ice Body"
+registeel,Steel,,,Iron,1.9,205,"Clear Body, Light Metal"
+latias,Dragon,Psychic,,Eon,1.4,40,Levitate
+latios,Dragon,Psychic,,Eon,2,60,Levitate
+kyogre,Water,,,Sea Basin,4.5,352,Drizzle
+groudon,Ground,,,Continent,3.5,950,Drought
+rayquaza,Dragon,Flying,,Sky High,7,206.5,Air Lock
+jirachi,Steel,Psychic,,Wish,0.3,1.1,Serene Grace
+deoxys-normal,Psychic,,,DNA,1.7,60.8,Pressure
+turtwig,Grass,,,Tiny Leaf,0.4,10.2,"Overgrow, Shell Armor"
+grotle,Grass,,,Grove,1.1,97,"Overgrow, Shell Armor"
+torterra,Grass,Ground,,Continent,2.2,310,"Overgrow, Shell Armor"
+chimchar,Fire,,,Chimp,0.5,6.2,"Blaze, Iron Fist"
+monferno,Fire,Fighting,,Playful,0.9,22,"Blaze, Iron Fist"
+infernape,Fire,Fighting,,Flame,1.2,55,"Blaze, Iron Fist"
+piplup,Water,,,Penguin,0.4,5.2,"Torrent, Defiant"
+prinplup,Water,,,Penguin,0.8,23,"Torrent, Defiant"
+empoleon,Water,Steel,,Emperor,1.7,84.5,"Torrent, Defiant"
+starly,Normal,Flying,,Starling,0.3,2,"Keen Eye, Reckless"
+staravia,Normal,Flying,,Starling,0.6,15.5,"Intimidate, Reckless"
+staraptor,Normal,Flying,,Predator,1.2,24.9,"Intimidate, Reckless"
+bidoof,Normal,,,Plump Mouse,0.5,20,"Simple, Unaware, Moody"
+bibarel,Normal,Water,,Beaver,1,31.5,"Simple, Unaware, Moody"
+kricketot,Bug,,,Cricket,0.3,2.2,"Shed Skin, Run Away"
+kricketune,Bug,,,Cricket,1,25.5,"Swarm, Technician"
+shinx,Electric,,,Flash,0.5,9.5,"Rivalry, Intimidate, Guts"
+luxio,Electric,,,Spark,0.9,30.5,"Rivalry, Intimidate, Guts"
+luxray,Electric,,,Gleam Eyes,1.4,42,"Rivalry, Intimidate, Guts"
+budew,Grass,Poison,,Bud,0.2,1.2,"Natural Cure, Poison Point, Leaf Guard"
+roserade,Grass,Poison,,Bouquet,0.9,14.5,"Natural Cure, Poison Point, Technician"
+cranidos,Rock,,,Head Butt,0.9,31.5,"Mold Breaker, Sheer Force"
+rampardos,Rock,,,Head Butt,1.6,102.5,"Mold Breaker, Sheer Force"
+shieldon,Rock,Steel,,Shield,0.5,57,"Sturdy, Soundproof"
+bastiodon,Rock,Steel,,Shield,1.3,149.5,"Sturdy, Soundproof"
+burmy,Bug,,,Bagworm,0.2,3.4,"Shed Skin, Overcoat"
+wormadam-plant,Bug,Grass,,Bagworm,0.5,6.5,"Anticipation, Overcoat"
+mothim,Bug,Flying,,Moth,0.9,23.3,"Swarm, Tinted Lens"
+combee,Bug,Flying,,Tiny Bee,0.3,5.5,"Honey Gather, Hustle"
+vespiquen,Bug,Flying,,Beehive,1.2,38.5,"Pressure, Unnerve"
+pachirisu,Electric,,,EleSquirrel,0.4,3.9,"Run Away, Pickup, Volt Absorb"
+buizel,Water,,,Sea Weasel,0.7,29.5,"Swift Swim, Water Veil"
+floatzel,Water,,,Sea Weasel,1.1,33.5,"Swift Swim, Water Veil"
+cherubi,Grass,,,Cherry,0.4,3.3,Chlorophyll
+cherrim,Grass,,,Blossom,0.5,9.3,Flower Gift
+shellos,Water,,,Sea Slug,0.3,6.3,"Sticky Hold, Storm Drain, Sand Force"
+gastrodon,Water,Ground,,Sea Slug,0.9,29.9,"Sticky Hold, Storm Drain, Sand Force"
+ambipom,Normal,,,Long Tail,1.2,20.3,"Technician, Pickup, Skill Link"
+drifloon,Ghost,Flying,,Balloon,0.4,1.2,"Aftermath, Unburden, Flare Boost"
+drifblim,Ghost,Flying,,Blimp,1.2,15,"Aftermath, Unburden, Flare Boost"
+buneary,Normal,,,Rabbit,0.4,5.5,"Run Away, Klutz, Limber"
+lopunny,Normal,,,Rabbit,1.2,33.3,"Cute Charm, Klutz, Limber"
+mismagius,Ghost,,,Magical,0.9,4.4,Levitate
+honchkrow,Dark,Flying,,Big Boss,0.9,27.3,"Insomnia, Super Luck, Moxie"
+glameow,Normal,,,Catty,0.5,3.9,"Limber, Own Tempo, Keen Eye"
+purugly,Normal,,,Tiger Cat,1,43.8,"Thick Fat, Own Tempo, Defiant"
+chingling,Psychic,,,Bell,0.2,0.6,Levitate
+stunky,Poison,Dark,,Skunk,0.4,19.2,"Stench, Aftermath, Keen Eye"
+skuntank,Poison,Dark,,Skunk,1,38,"Stench, Aftermath, Keen Eye"
+bronzor,Steel,Psychic,,Bronze,0.5,60.5,"Levitate, Heatproof, Heavy Metal"
+bronzong,Steel,Psychic,,Bronze Bell,1.3,187,"Levitate, Heatproof, Heavy Metal"
+bonsly,Rock,,,Bonsai,0.5,15,"Sturdy, Rock Head, Rattled"
+mime-jr,Psychic,Fairy,,Mime,0.6,13,"Soundproof, Filter, Technician"
+happiny,Normal,,,Playhouse,0.6,24.4,"Natural Cure, Serene Grace, Friend Guard"
+chatot,Normal,Flying,,Music Note,0.5,1.9,"Keen Eye, Tangled Feet, Big Pecks"
+spiritomb,Ghost,Dark,,Forbidden,1,108,"Pressure, Infiltrator"
+gible,Dragon,Ground,,Land Shark,0.7,20.5,"Sand Veil, Rough Skin"
+gabite,Dragon,Ground,,Cave,1.4,56,"Sand Veil, Rough Skin"
+garchomp,Dragon,Ground,,Mach,1.9,95,"Sand Veil, Rough Skin"
+munchlax,Normal,,,Big Eater,0.6,105,"Pickup, Thick Fat, Gluttony"
+riolu,Fighting,,,Emanation,0.7,20.2,"Steadfast, Inner Focus, Prankster"
+lucario,Fighting,Steel,,Aura,1.2,54,"Steadfast, Inner Focus, Justified"
+hippopotas,Ground,,,Hippo,0.8,49.5,"Sand Stream, Sand Force"
+hippowdon,Ground,,,Heavyweight,2,300,"Sand Stream, Sand Force"
+skorupi,Poison,Bug,,Scorpion,0.8,12,"Battle Armor, Sniper, Keen Eye"
+drapion,Poison,Dark,,Ogre Scorp,1.3,61.5,"Battle Armor, Sniper, Keen Eye"
+croagunk,Poison,Fighting,,Toxic Mouth,0.7,23,"Anticipation, Dry Skin, Poison Touch"
+toxicroak,Poison,Fighting,,Toxic Mouth,1.3,44.4,"Anticipation, Dry Skin, Poison Touch"
+carnivine,Grass,,,Bug Catcher,1.4,27,Levitate
+finneon,Water,,,Wing Fish,0.4,7,"Swift Swim, Storm Drain, Water Veil"
+lumineon,Water,,,Neon,1.2,24,"Swift Swim, Storm Drain, Water Veil"
+mantyke,Water,Flying,,Kite,1,65,"Swift Swim, Water Absorb, Water Veil"
+snover,Grass,Ice,,Frosted Tree,1,50.5,"Snow Warning, Soundproof"
+abomasnow,Grass,Ice,,Frosted Tree,2.2,135.5,"Snow Warning, Soundproof"
+weavile,Dark,Ice,,Sharp Claw,1.1,34,"Pressure, Pickpocket"
+magnezone,Electric,Steel,,Magnet Area,1.2,180,"Magnet Pull, Sturdy, Analytic"
+lickilicky,Normal,,,Licking,1.7,140,"Own Tempo, Oblivious, Cloud Nine"
+rhyperior,Ground,Rock,,Drill,2.4,282.8,"Lightningrod, Solid Rock, Reckless"
+tangrowth,Grass,,,Vine,2,128.6,"Chlorophyll, Leaf Guard, Regenerator"
+electivire,Electric,,,Thunderbolt,1.8,138.6,"Motor Drive, Vital Spirit"
+magmortar,Fire,,,Blast,1.6,68,"Flame Body, Vital Spirit"
+togekiss,Fairy,Flying,,Jubilee,1.5,38,"Hustle, Serene Grace, Super Luck"
+yanmega,Bug,Flying,,Ogre Darner,1.9,51.5,"Speed Boost, Tinted Lens, Frisk"
+leafeon,Grass,,,Verdant,1,25.5,"Leaf Guard, Chlorophyll"
+glaceon,Ice,,,Fresh Snow,0.8,25.9,"Snow Cloak, Ice Body"
+gliscor,Ground,Flying,,Fang Scorp,2,42.5,"Hyper Cutter, Sand Veil, Poison Heal"
+mamoswine,Ice,Ground,,Twin Tusk,2.5,291,"Oblivious, Snow Cloak, Thick Fat"
+porygon-z,Normal,,,Virtual,0.9,34,"Adaptability, Download, Analytic"
+gallade,Psychic,Fighting,,Blade,1.6,52,"Steadfast, Justified"
+probopass,Rock,Steel,,Compass,1.4,340,"Sturdy, Magnet Pull, Sand Force"
+dusknoir,Ghost,,,Gripper,2.2,106.6,"Pressure, Frisk"
+froslass,Ice,Ghost,,Snow Land,1.3,26.6,"Snow Cloak, Cursed Body"
+rotom,Electric,Ghost,,Plasma,0.3,0.3,Levitate
+uxie,Psychic,,,Knowledge,0.3,0.3,Levitate
+mesprit,Psychic,,,Emotion,0.3,0.3,Levitate
+azelf,Psychic,,,Willpower,0.3,0.3,Levitate
+dialga,Steel,Dragon,,Temporal,5.4,683,"Pressure, Telepathy"
+palkia,Water,Dragon,,Spatial,4.2,336,"Pressure, Telepathy"
+heatran,Fire,Steel,,Lava Dome,1.7,430,"Flash Fire, Flame Body"
+regigigas,Normal,,,Colossal,3.7,420,Slow Start
+giratina-altered,Ghost,Dragon,,Renegade,4.5,750,"Pressure, Telepathy, Levitate"
+cresselia,Psychic,,,Lunar,1.5,85.6,Levitate
+phione,Water,,,Sea Drifter,0.4,3.1,Hydration
+manaphy,Water,,,Seafaring,0.3,1.4,Hydration
+darkrai,Dark,,,Pitch-Black,1.5,50.5,Bad Dreams
+shaymin-land,Grass,,,Gratitude,0.2,2.1,"Natural Cure, Serene Grace"
+arceus,Normal,,,Alpha,3.2,320,Multitype
+victini,Psychic,Fire,,Victory,0.4,4,Victory Star
+snivy,Grass,,,Grass Snake,0.6,8.1,"Overgrow, Contrary"
+servine,Grass,,,Grass Snake,0.8,16,"Overgrow, Contrary"
+serperior,Grass,,,Regal,3.3,63,"Overgrow, Contrary"
+tepig,Fire,,,Fire Pig,0.5,9.9,"Blaze, Thick Fat"
+pignite,Fire,Fighting,,Fire Pig,1,55.5,"Blaze, Thick Fat"
+emboar,Fire,Fighting,,Mega Fire Pig,1.6,150,"Blaze, Reckless"
+oshawott,Water,,,Sea Otter,0.5,5.9,"Torrent, Shell Armor"
+dewott,Water,,,Discipline,0.8,24.5,"Torrent, Shell Armor"
+samurott,Water,,,Formidable,1.5,94.6,"Torrent, Shell Armor"
+patrat,Normal,,,Scout,0.5,11.6,"Run Away, Keen Eye, Analytic"
+watchog,Normal,,,Lookout,1.1,27,"Illuminate, Keen Eye, Analytic"
+lillipup,Normal,,,Puppy,0.4,4.1,"Vital Spirit, Pickup, Run Away"
+herdier,Normal,,,Loyal Dog,0.9,14.7,"Intimidate, Sand Rush, Scrappy"
+stoutland,Normal,,,Big-Hearted,1.2,61,"Intimidate, Sand Rush, Scrappy"
+purrloin,Dark,,,Devious,0.4,10.1,"Limber, Unburden, Prankster"
+liepard,Dark,,,Cruel,1.1,37.5,"Limber, Unburden, Prankster"
+pansage,Grass,,,Grass Monkey,0.6,10.5,"Gluttony, Overgrow"
+simisage,Grass,,,Thorn Monkey,1.1,30.5,"Gluttony, Overgrow"
+pansear,Fire,,,High Temp,0.6,11,"Gluttony, Blaze"
+simisear,Fire,,,Ember,1,28,"Gluttony, Blaze"
+panpour,Water,,,Spray,0.6,13.5,"Gluttony, Torrent"
+simipour,Water,,,Geyser,1,29,"Gluttony, Torrent"
+munna,Psychic,,,Dream Eater,0.6,23.3,"Forewarn, Synchronize, Telepathy"
+musharna,Psychic,,,Drowsing,1.1,60.5,"Forewarn, Synchronize, Telepathy"
+pidove,Normal,Flying,,Tiny Pigeon,0.3,2.1,"Big Pecks, Super Luck, Rivalry"
+tranquill,Normal,Flying,,Wild Pigeon,0.6,15,"Big Pecks, Super Luck, Rivalry"
+unfezant,Normal,Flying,,Proud,1.2,29,"Big Pecks, Super Luck, Rivalry"
+blitzle,Electric,,,Electrified,0.8,29.8,"Lightningrod, Motor Drive, Sap Sipper"
+zebstrika,Electric,,,Thunderbolt,1.6,79.5,"Lightningrod, Motor Drive, Sap Sipper"
+roggenrola,Rock,,,Mantle,0.4,18,"Sturdy, Weak Armor, Sand Force"
+boldore,Rock,,,Ore,0.9,102,"Sturdy, Weak Armor, Sand Force"
+gigalith,Rock,,,Compressed,1.7,260,"Sturdy, Sand Stream, Sand Force"
+woobat,Psychic,Flying,,Bat,0.4,2.1,"Unaware, Klutz, Simple"
+swoobat,Psychic,Flying,,Courting,0.9,10.5,"Unaware, Klutz, Simple"
+drilbur,Ground,,,Mole,0.3,8.5,"Sand Rush, Sand Force, Mold Breaker"
+excadrill,Ground,Steel,,Subterrene,0.7,40.4,"Sand Rush, Sand Force, Mold Breaker"
+audino,Normal,,,Hearing,1.1,31,"Healer, Regenerator, Klutz"
+timburr,Fighting,,,Muscular,0.6,12.5,"Guts, Sheer Force, Iron Fist"
+gurdurr,Fighting,,,Muscular,1.2,40,"Guts, Sheer Force, Iron Fist"
+conkeldurr,Fighting,,,Muscular,1.4,87,"Guts, Sheer Force, Iron Fist"
+tympole,Water,,,Tadpole,0.5,4.5,"Swift Swim, Hydration, Water Absorb"
+palpitoad,Water,Ground,,Vibration,0.8,17,"Swift Swim, Hydration, Water Absorb"
+seismitoad,Water,Ground,,Vibration,1.5,62,"Swift Swim, Poison Touch, Water Absorb"
+throh,Fighting,,,Judo,1.3,55.5,"Guts, Inner Focus, Mold Breaker"
+sawk,Fighting,,,Karate,1.4,51,"Sturdy, Inner Focus, Mold Breaker"
+sewaddle,Bug,Grass,,Sewing,0.3,2.5,"Swarm, Chlorophyll, Overcoat"
+swadloon,Bug,Grass,,Leaf-Wrapped,0.5,7.3,"Leaf Guard, Chlorophyll, Overcoat"
+leavanny,Bug,Grass,,Nurturing,1.2,20.5,"Swarm, Chlorophyll, Overcoat"
+venipede,Bug,Poison,,Centipede,0.4,5.3,"Poison Point, Swarm, Speed Boost"
+whirlipede,Bug,Poison,,Curlipede,1.2,58.5,"Poison Point, Swarm, Speed Boost"
+scolipede,Bug,Poison,,Megapede,2.5,200.5,"Poison Point, Swarm, Speed Boost"
+cottonee,Grass,Fairy,,Cotton Puff,0.3,0.6,"Prankster, Infiltrator, Chlorophyll"
+whimsicott,Grass,Fairy,,Windveiled,0.7,6.6,"Prankster, Infiltrator, Chlorophyll"
+petilil,Grass,,,Bulb,0.5,6.6,"Chlorophyll, Own Tempo, Leaf Guard"
+lilligant,Grass,,,Flowering,1.1,16.3,"Chlorophyll, Own Tempo, Leaf Guard"
+basculin-red-striped,Water,,,Hostile,1,18,"Reckless, Rock Head, Adaptability, Mold Breaker"
+sandile,Ground,Dark,,Desert Croc,0.7,15.2,"Intimidate, Moxie, Anger Point"
+krokorok,Ground,Dark,,Desert Croc,1,33.4,"Intimidate, Moxie, Anger Point"
+krookodile,Ground,Dark,,Intimidation,1.5,96.3,"Intimidate, Moxie, Anger Point"
+darumaka,Fire,,,Zen Charm,0.6,37.5,"Hustle, Inner Focus"
+darmanitan-standard,Fire,,,Blazing,1.3,92.9,"Sheer Force, Zen Mode"
+maractus,Grass,,,Cactus,1,28,"Water Absorb, Chlorophyll, Storm Drain"
+dwebble,Bug,Rock,,Rock Inn,0.3,14.5,"Sturdy, Shell Armor, Weak Armor"
+crustle,Bug,Rock,,Stone Home,1.4,200,"Sturdy, Shell Armor, Weak Armor"
+scraggy,Dark,Fighting,,Shedding,0.6,11.8,"Shed Skin, Moxie, Intimidate"
+scrafty,Dark,Fighting,,Hoodlum,1.1,30,"Shed Skin, Moxie, Intimidate"
+sigilyph,Psychic,Flying,,Avianoid,1.4,14,"Wonder Skin , Magic Guard, Tinted Lens"
+yamask,Ghost,,,Spirit,0.5,1.5,Mummy
+cofagrigus,Ghost,,,Coffin,1.7,76.5,Mummy
+tirtouga,Water,Rock,,Prototurtle,0.7,16.5,"Solid Rock, Sturdy, Swift Swim"
+carracosta,Water,Rock,,Prototurtle,1.2,81,"Solid Rock, Sturdy, Swift Swim"
+archen,Rock,Flying,,First Bird,0.5,9.5,Defeatist
+archeops,Rock,Flying,,First Bird,1.4,32,Defeatist
+trubbish,Poison,,,Trash Bag,0.6,31,"Stench, Sticky Hold, Aftermath"
+garbodor,Poison,,,Trash Heap,1.9,107.3,"Stench, Weak Armor, Aftermath"
+zorua,Dark,,,Tricky Fox,0.7,12.5,Illusion
+zoroark,Dark,,,Illusion Fox,1.6,81.1,Illusion
+minccino,Normal,,,Chinchilla,0.4,5.8,"Cute Charm, Technician, Skill Link"
+cinccino,Normal,,,Scarf,0.5,7.5,"Cute Charm, Technician, Skill Link"
+gothita,Psychic,,,Fixation,0.4,5.8,"Frisk, Competitive, Shadow Tag"
+gothorita,Psychic,,,Manipulate,0.7,18,"Frisk, Competitive, Shadow Tag"
+gothitelle,Psychic,,,Astral Body,1.5,44,"Frisk, Competitive, Shadow Tag"
+solosis,Psychic,,,Cell,0.3,1,"Overcoat, Magic Guard, Regenerator"
+duosion,Psychic,,,Mitosis,0.6,8,"Overcoat, Magic Guard, Regenerator"
+reuniclus,Psychic,,,Multiplying,1,20.1,"Overcoat, Magic Guard, Regenerator"
+ducklett,Water,Flying,,Water Bird,0.5,5.5,"Keen Eye, Big Pecks, Hydration"
+swanna,Water,Flying,,White Bird,1.3,24.2,"Keen Eye, Big Pecks, Hydration"
+vanillite,Ice,,,Fresh Snow,0.4,5.7,"Ice Body, Snow Cloak, Weak Armor"
+vanillish,Ice,,,Icy Snow,1.1,41,"Ice Body, Snow Cloak, Weak Armor"
+vanilluxe,Ice,,,Snowstorm,1.3,57.5,"Ice Body, Snow Warning, Weak Armor"
+deerling,Normal,Grass,,Season,0.6,19.5,"Chlorophyll, Sap Sipper, Serene Grace"
+sawsbuck,Normal,Grass,,Season,1.9,92.5,"Chlorophyll, Sap Sipper, Serene Grace"
+emolga,Electric,Flying,,Sky Squirrel,0.4,5,"Static, Motor Drive"
+karrablast,Bug,,,Clamping,0.5,5.9,"Swarm, Shed Skin, No Guard"
+escavalier,Bug,Steel,,Cavalry,1,33,"Swarm, Shell Armor, Overcoat"
+foongus,Grass,Poison,,Mushroom,0.2,1,"Effect Spore, Regenerator"
+amoonguss,Grass,Poison,,Mushroom,0.6,10.5,"Effect Spore, Regenerator"
+frillish,Water,Ghost,,Floating,1.2,33,"Water Absorb, Cursed Body, Damp"
+jellicent,Water,Ghost,,Floating,2.2,135,"Water Absorb, Cursed Body, Damp"
+alomomola,Water,,,Caring,1.2,31.6,"Healer, Hydration, Regenerator"
+joltik,Bug,Electric,,Attaching,0.1,0.6,"Compoundeyes, Unnerve, Swarm"
+galvantula,Bug,Electric,,EleSpider,0.8,14.3,"Compoundeyes, Unnerve, Swarm"
+ferroseed,Grass,Steel,,Thorn Seed,0.6,18.8,Iron Barbs
+ferrothorn,Grass,Steel,,Thorn Pod,1,110,"Iron Barbs, Anticipation"
+klink,Steel,,,Gear,0.3,21,"Plus, Minus, Clear Body"
+klang,Steel,,,Gear,0.6,51,"Plus, Minus, Clear Body"
+klinklang,Steel,,,Gear,0.6,81,"Plus, Minus, Clear Body"
+tynamo,Electric,,,EleFish,0.2,0.3,Levitate
+eelektrik,Electric,,,EleFish,1.2,22,Levitate
+eelektross,Electric,,,EleFish,2.1,80.5,Levitate
+elgyem,Psychic,,,Cerebral,0.5,9,"Telepathy, Synchronize, Analytic"
+beheeyem,Psychic,,,Cerebral,1,34.5,"Telepathy, Synchronize, Analytic"
+litwick,Ghost,Fire,,Candle,0.3,3.1,"Flash Fire, Flame Body, Infiltrator"
+lampent,Ghost,Fire,,Lamp,0.6,13,"Flash Fire, Flame Body, Infiltrator"
+chandelure,Ghost,Fire,,Luring,1,34.3,"Flash Fire, Flame Body, Infiltrator"
+axew,Dragon,,,Tusk,0.6,18,"Rivalry, Mold Breaker, Unnerve"
+fraxure,Dragon,,,Axe Jaw,1,36,"Rivalry, Mold Breaker, Unnerve"
+haxorus,Dragon,,,Axe Jaw,1.8,105.5,"Rivalry, Mold Breaker, Unnerve"
+cubchoo,Ice,,,Chill,0.5,8.5,"Snow Cloak, Slush Rush, Rattled"
+beartic,Ice,,,Freezing,2.6,260,"Snow Cloak, Slush Rush, Swift Swim"
+cryogonal,Ice,,,Crystallizing,1.1,148,Levitate
+shelmet,Bug,,,Snail,0.4,7.7,"Hydration, Shell Armor, Overcoat"
+accelgor,Bug,,,Shell Out,0.8,25.3,"Hydration, Sticky Hold, Unburden"
+stunfisk,Ground,Electric,,Trap,0.7,11,"Static, Limber, Sand Veil"
+mienfoo,Fighting,,,Martial Arts,0.9,20,"Inner Focus, Regenerator, Reckless"
+mienshao,Fighting,,,Martial Arts,1.4,35.5,"Inner Focus, Regenerator, Reckless"
+druddigon,Dragon,,,Cave,1.6,139,"Rough Skin, Sheer Force, Mold Breaker"
+golett,Ground,Ghost,,Automaton,1,92,"Iron Fist, Klutz, No Guard"
+golurk,Ground,Ghost,,Automaton,2.8,330,"Iron Fist, Klutz, No Guard"
+pawniard,Dark,Steel,,Sharp Blade,0.5,10.2,"Defiant, Inner Focus, Pressure"
+bisharp,Dark,Steel,,Sword Blade,1.6,70,"Defiant, Inner Focus, Pressure"
+bouffalant,Normal,,,Bash Buffalo,1.6,94.6,"Reckless, Sap Sipper, Soundproof"
+rufflet,Normal,Flying,,Eaglet,0.5,10.5,"Keen Eye, Sheer Force, Hustle"
+braviary,Normal,Flying,,Valiant,1.5,41,"Keen Eye, Sheer Force, Defiant"
+vullaby,Dark,Flying,,Diapered,0.5,9,"Big Pecks, Overcoat, Weak Armor"
+mandibuzz,Dark,Flying,,Bone Vulture,1.2,39.5,"Big Pecks, Overcoat, Weak Armor"
+heatmor,Fire,,,Anteater,1.4,58,"Gluttony, Flash Fire, White Smoke"
+durant,Bug,Steel,,Iron Ant,0.3,33,"Swarm, Hustle, Truant"
+deino,Dark,Dragon,,Irate,0.8,17.3,Hustle
+zweilous,Dark,Dragon,,Hostile,1.4,50,Hustle
+hydreigon,Dark,Dragon,,Brutal,1.8,160,Levitate
+larvesta,Bug,Fire,,Torch,1.1,28.8,"Flame Body, Swarm"
+volcarona,Bug,Fire,,Sun,1.6,46,"Flame Body, Swarm"
+cobalion,Steel,Fighting,,Iron Will,2.1,250,Justified
+terrakion,Rock,Fighting,,Cavern,1.9,260,Justified
+virizion,Grass,Fighting,,Grassland,2,200,Justified
+tornadus-incarnate,Flying,,,Cyclone,1.5,63,"Prankster, Defiant, Regenerator"
+thundurus-incarnate,Electric,Flying,,Bolt Strike,1.5,61,"Prankster, Defiant, Volt Absorb"
+reshiram,Dragon,Fire,,Vast White,3.2,330,Turboblaze
+zekrom,Dragon,Electric,,Deep Black,2.9,345,Teravolt
+landorus-incarnate,Ground,Flying,,Abundance,1.5,68,"Sand Force, Sheer Force, Intimidate"
+kyurem,Dragon,Ice,,Boundary,3,325,"Pressure, Teravolt, Turboblaze"
+keldeo-ordinary,Water,Fighting,,Colt,1.4,48.5,Justified
+meloetta-aria,Normal,Psychic,,Melody,0.6,6.5,Serene Grace
+genesect,Bug,Steel,,Paleozoic,1.5,82.5,Download
+chespin,Grass,,,Spiky Nut,0.4,9,"Overgrow, Bulletproof"
+quilladin,Grass,,,Spiny Armor,0.7,29,"Overgrow, Bulletproof"
+chesnaught,Grass,Fighting,,Spiny Armor,1.6,90,"Overgrow, Bulletproof"
+fennekin,Fire,,,Fox,0.4,9.4,"Blaze, Magician"
+braixen,Fire,,,Fox,1,14.5,"Blaze, Magician"
+delphox,Fire,Psychic,,Fox,1.5,39,"Blaze, Magician"
+froakie,Water,,,Bubble Frog,0.3,7,"Torrent, Protean"
+frogadier,Water,,,Bubble Frog,0.6,10.9,"Torrent, Protean"
+greninja,Water,Dark,,Ninja,1.5,40,"Torrent, Protean, Battle Bond"
+bunnelby,Normal,,,Digging,0.4,5,"Pickup, Cheek Pouch, Huge Power"
+diggersby,Normal,Ground,,Digging,1,42.4,"Pickup, Cheek Pouch, Huge Power"
+fletchling,Normal,Flying,,Tiny Robin,0.3,1.7,"Big Pecks, Gale Wings"
+fletchinder,Fire,Flying,,Ember,0.7,16,"Flame Body, Gale Wings"
+talonflame,Fire,Flying,,Scorching,1.2,24.5,"Flame Body, Gale Wings"
+scatterbug,Bug,,,Scatterdust,0.3,2.5,"Shield Dust, Compoundeyes, Friend Guard"
+spewpa,Bug,,,Scatterdust,0.3,8.4,"Shed Skin, Friend Guard"
+vivillon,Bug,Flying,,Scale,1.2,17,"Shield Dust, Compoundeyes, Friend Guard"
+litleo,Fire,Normal,,Lion Cub,0.6,13.5,"Rivalry, Unnerve, Moxie"
+pyroar,Fire,Normal,,Royal,1.5,81.5,"Rivalry, Unnerve, Moxie"
+flabebe,Fairy,,,Single Bloom,0.1,0.1,"Flower Veil, Symbiosis"
+floette,Fairy,,,Fairy,0.2,0.9,"Flower Veil, Symbiosis"
+florges,Fairy,,,Garden,1.1,10,"Flower Veil, Symbiosis"
+skiddo,Grass,,,Mount,0.9,31,"Sap Sipper, Grass Pelt"
+gogoat,Grass,,,Mount,1.7,91,"Sap Sipper, Grass Pelt"
+pancham,Fighting,,,Playful,0.6,8,"Iron Fist, Mold Breaker, Scrappy"
+pangoro,Fighting,Dark,,Daunting,2.1,136,"Iron Fist, Mold Breaker, Scrappy"
+furfrou,Normal,,,Poodle,1.2,28,Fur Coat
+espurr,Psychic,,,Restraint,0.3,3.5,"Keen Eye, Infiltrator, Own Tempo"
+meowstic-male,Psychic,,,Constraint,0.6,8.5,"Keen Eye, Infiltrator, Prankster, Competitive"
+honedge,Steel,Ghost,,Sword,0.8,2,No Guard
+doublade,Steel,Ghost,,Sword,0.8,4.5,No Guard
+aegislash-blade,Steel,Ghost,,Royal Sword,1.7,53,Stance Change
+spritzee,Fairy,,,Perfume,0.2,0.5,"Healer, Aroma Veil"
+aromatisse,Fairy,,,Fragrance,0.8,15.5,"Healer, Aroma Veil"
+swirlix,Fairy,,,Cotton Candy,0.4,3.5,"Sweet Veil, Unburden"
+slurpuff,Fairy,,,Meringue,0.8,5,"Sweet Veil, Unburden"
+inkay,Dark,Psychic,,Revolving,0.4,3.5,"Contrary, Suction Cups, Infiltrator"
+malamar,Dark,Psychic,,Overturning,1.5,47,"Contrary, Suction Cups, Infiltrator"
+binacle,Rock,Water,,Two-Handed,0.5,31,"Tough Claws, Sniper, Pickpocket"
+barbaracle,Rock,Water,,Collective,1.3,96,"Tough Claws, Sniper, Pickpocket"
+skrelp,Poison,Water,,Mock Kelp,0.5,7.3,"Poison Point, Poison Touch, Adaptability"
+dragalge,Poison,Dragon,,Mock Kelp,1.8,81.5,"Poison Point, Poison Touch, Adaptability"
+clauncher,Water,,,Water Gun,0.5,8.3,Mega Launcher
+clawitzer,Water,,,Howitzer,1.3,35.3,Mega Launcher
+helioptile,Electric,Normal,,Generator,0.5,6,"Dry Skin, Sand Veil, Solar Power"
+heliolisk,Electric,Normal,,Generator,1,21,"Dry Skin, Sand Veil, Solar Power"
+tyrunt,Rock,Dragon,,Royal Heir,0.8,26,"Strong Jaw, Sturdy"
+tyrantrum,Rock,Dragon,,Despot,2.5,270,"Strong Jaw, Rock Head"
+amaura,Rock,Ice,,Tundra,1.3,25.2,"Refrigerate, Snow Warning"
+aurorus,Rock,Ice,,Tundra,2.7,225,"Refrigerate, Snow Warning"
+sylveon,Fairy,,,Intertwining,1,23.5,"Cute Charm, Pixilate"
+hawlucha,Fighting,Flying,,Wrestling,0.8,21.5,"Limber, Unburden, Mold Breaker"
+dedenne,Electric,Fairy,,Antenna,0.2,2.2,"Cheek Pouch, Pickup, Plus"
+carbink,Rock,Fairy,,Jewel,0.3,5.7,"Clear Body, Sturdy"
+goomy,Dragon,,,Soft Tissue,0.3,2.8,"Sap Sipper, Hydration, Gooey"
+sliggoo,Dragon,,,Soft Tissue,0.8,17.5,"Sap Sipper, Hydration, Gooey"
+goodra,Dragon,,,Dragon,2,150.5,"Sap Sipper, Hydration, Gooey"
+klefki,Steel,Fairy,,Key Ring,0.2,3,"Prankster, Magician"
+phantump,Ghost,Grass,,Stump,0.4,7,"Natural Cure, Frisk, Harvest"
+trevenant,Ghost,Grass,,Elder Tree,1.5,71,"Natural Cure, Frisk, Harvest"
+pumpkaboo-average,Ghost,Grass,,Pumpkin,0.8,15,"Pickup, Frisk, Insomnia"
+gourgeist-average,Ghost,Grass,,Pumpkin,1.7,39,"Pickup, Frisk, Insomnia"
+bergmite,Ice,,,Ice Chunk,1,99.5,"Own Tempo, Ice Body, Sturdy"
+avalugg,Ice,,,Iceberg,2,505,"Own Tempo, Ice Body, Sturdy"
+noibat,Flying,Dragon,,Sound Wave,0.5,8,"Frisk, Infiltrator, Telepathy"
+noivern,Flying,Dragon,,Sound Wave,1.5,85,"Frisk, Infiltrator, Telepathy"
+xerneas,Fairy,,,Life,3,215,Fairy Aura
+yveltal,Dark,Flying,,Destruction,5.8,203,Dark Aura
+zygarde-50,Dragon,Ground,,Order,5,284.6,"Aura Break, Power Construct"
+diancie,Rock,Fairy,,Jewel,0.7,8.8,Clear Body
+hoopa-confined,Psychic,Ghost,,Mischief (Confined)Djinnn (Unbound),0.5,9,Magician
+volcanion,Fire,Water,,Steam,1.7,195,Water Absorb
+rowlet,Grass,Flying,,Grass Quill,0.3,1.5,"Overgrow, Long Reach"
+dartrix,Grass,Flying,,Blade Quill,0.7,16,"Overgrow, Long Reach"
+decidueye,Grass,Ghost,,Arrow Quill,1.6,36.6,"Overgrow, Long Reach"
+litten,Fire,,,Fire Cat,0.4,4.3,"Blaze, Intimidate"
+torracat,Fire,,,Fire Cat,0.7,25,"Blaze, Intimidate"
+incineroar,Fire,Dark,,Heel,1.8,83,"Blaze, Intimidate"
+popplio,Water,,,Sea Lion,0.4,7.5,"Torrent, Liquid Voice"
+brionne,Water,,,Pop Star,0.6,17.5,"Torrent, Liquid Voice"
+primarina,Water,Fairy,,Soloist,1.8,44,"Torrent, Liquid Voice"
+pikipek,Normal,Flying,,Woodpecker,0.3,1.2,"Keen Eye, Skill Link, Pickup"
+trumbeak,Normal,Flying,,Bugle Beak,0.6,14.8,"Keen Eye, Skill Link, Pickup"
+toucannon,Normal,Flying,,Cannon,1.1,26,"Keen Eye, Skill Link, Sheer Force"
+yungoos,Normal,,,Loitering,0.4,6,"Stakeout, Strong Jaw, Adaptability"
+gumshoos,Normal,,,Stakeout,0.7,14.2,"Stakeout, Strong Jaw, Adaptability"
+grubbin,Bug,,,Larva,0.4,4.4,Swarm
+charjabug,Bug,Electric,,Battery,0.5,10.5,Battery
+vikavolt,Bug,Electric,,Stag Beetle,1.5,45,Levitate
+crabrawler,Fighting,,,Boxing,0.6,7,"Hyper Cutter, Iron Fist, Anger Point"
+crabominable,Fighting,Ice,,Woolly Crab,1.7,180,"Hyper Cutter, Iron Fist, Anger Point"
+oricorio-baile,Fire,Flying,,Dancing,0.6,3.4,Dancer
+cutiefly,Bug,Fairy,,Bee Fly,0.1,0.2,"Honey Gather, Shield Dust, Sweet Veil"
+ribombee,Bug,Fairy,,Bee Fly,0.2,0.5,"Honey Gather, Shield Dust, Sweet Veil"
+rockruff,Rock,,,Puppy,0.5,9.2,"Keen Eye, Vital Spirit, Steadfast"
+lycanroc-midday,Rock,,,Wolf,0.8,25,"Keen Eye, Sand Rush, Steadfast, Keen Eye, Vital Spirit, No Guard"
+wishiwashi-solo,Water,,,Small Fry,0.2,0.3,Schooling
+mareanie,Poison,Water,,Brutal Star,0.4,8,"Merciless, Limber, Regenerator"
+toxapex,Poison,Water,,Brutal Star,0.7,14.5,"Merciless, Limber, Regenerator"
+mudbray,Ground,,,Donkey,1,110,"Own Tempo, Stamina, Inner Focus"
+mudsdale,Ground,,,Draft Horse,2.5,920,"Own Tempo, Stamina, Inner Focus"
+dewpider,Water,Bug,,Water Bubble,0.3,4,"Water Bubble, Water Absorb"
+araquanid,Water,Bug,,Water Bubble,1.8,82,"Water Bubble, Water Absorb"
+fomantis,Grass,,,Sickle Grass,0.3,1.5,"Leaf Guard, Contrary"
+lurantis,Grass,,,Bloom Sickle,0.9,18.5,"Leaf Guard, Contrary"
+morelull,Grass,Fairy,,Illuminating,0.2,1.5,"Illuminate, Effect Spore, Rain Dish"
+shiinotic,Grass,Fairy,,Illuminating,1,11.5,"Illuminate, Effect Spore, Rain Dish"
+salandit,Poison,Fire,,Toxic Lizard,0.6,4.8,"Corrosion, Oblivious"
+salazzle,Poison,Fire,,Toxic Lizard,1.2,22.2,"Corrosion, Oblivious"
+stufful,Normal,Fighting,,Flailing,0.5,6.8,"Fluffy, Klutz, Cute Charm"
+bewear,Normal,Fighting,,Strong Arm,2.1,135,"Fluffy, Klutz, Unnerve"
+bounsweet,Grass,,,Fruit,0.3,3.2,"Leaf Guard, Oblivious, Sweet Veil"
+steenee,Grass,,,Fruit,0.7,8.2,"Leaf Guard, Oblivious, Sweet Veil"
+tsareena,Grass,,,Fruit,1.2,21.4,"Leaf Guard, Queenly Majesty, Sweet Veil"
+comfey,Fairy,,,Posy Picker,0.1,0.3,"Flower Veil, Triage, Natural Cure"
+oranguru,Normal,Psychic,,Sage,1.5,76,"Inner Focus, Telepathy, Symbiosis"
+passimian,Fighting,,,Teamwork,2,82.8,"Receiver, Defiant"
+wimpod,Bug,Water,,Turn Tail,0.5,12,Wimp Out
+golisopod,Bug,Water,,Hard Scale,2,108,Emergency Exit
+sandygast,Ghost,Ground,,Sand Heap,0.5,70,"Water Compaction, Sand Veil"
+palossand,Ghost,Ground,,Sand Castle,1.3,250,"Water Compaction, Sand Veil"
+pyukumuku,Water,,,Sea Cucumber,0.3,1.2,"Innards Out, Unaware"
+type-null,Normal,,,Synthetic,1.9,120.5,Battle Armor
+silvally,Normal,,,Synthetic,2.3,100.5,RKS System
+minior-meteor,Rock,Flying,,Meteor,0.3,40,Shields Down
+komala,Normal,,,Drowsing,0.4,19.9,Comatose
+turtonator,Fire,Dragon,,Blast Turtle,2,212,Shell Armor
+togedemaru,Electric,Steel,,Roly-Poly,0.3,3.3,"Iron Barbs, Lightningrod, Sturdy"
+mimikyu,Ghost,Fairy,,Disguise,0.2,0.7,Disguise
+bruxish,Water,Psychic,,Gnash Teeth,0.9,19,"Dazzling, Strong Jaw, Wonder Skin "
+drampa,Normal,Dragon,,Placid,3,185,"Berserk, Sap Sipper, Cloud Nine"
+dhelmise,Ghost,Grass,,Sea Creeper,3.9,210,Steelworker
+jangmo-o,Dragon,,,Scaly,0.6,29.7,"Bulletproof, Soundproof, Overcoat"
+hakamo-o,Dragon,Fighting,,Scaly,1.2,47,"Bulletproof, Soundproof, Overcoat"
+kommo-o,Dragon,Fighting,,Scaly,1.6,78.2,"Bulletproof, Soundproof, Overcoat"
+tapu-koko,Electric,Fairy,,Land Spirit,1.8,20.5,"Electric Surge, Telepathy"
+tapu-lele,Psychic,Fairy,,Land Spirit,1.2,18.6,"Psychic Surge, Telepathy"
+tapu-bulu,Grass,Fairy,,Land Spirit,1.9,45.5,"Grassy Surge, Telepathy"
+tapu-fini,Water,Fairy,,Land Spirit,1.3,21.2,"Misty Surge, Telepathy"
+cosmog,Psychic,,,Nebula,0.2,0.1,Unaware
+cosmoem,Psychic,,,Protostar,0.1,999.9,Sturdy
+solgaleo,Psychic,Steel,,Sunne,3.4,230,Full Metal Body
+lunala,Psychic,Ghost,,Moone,4,120,Shadow Shield
+nihilego,Rock,Poison,,Parasite,1.2,55.5,Beast Boost
+buzzwole,Bug,Fighting,,Swollen,2.4,333.6,Beast Boost
+pheromosa,Bug,Fighting,,Lissome,1.8,25,Beast Boost
+xurkitree,Electric,,,Glowing,3.8,100,Beast Boost
+celesteela,Steel,Flying,,Launch,9.2,999.9,Beast Boost
+kartana,Grass,Steel,,Drawn Sword,0.3,0.1,Beast Boost
+guzzlord,Dark,Dragon,,Junkivore,5.5,888,Beast Boost
+necrozma,Psychic,,,Prism,2.4,230,Prism Armor
+magearna,Steel,Fairy,,Artificial,1,80.5,Soul-Heart
+marshadow,Fighting,Ghost,,Gloomdweller,0.7,22.2,Technician
+poipole,Poison,,,Poison Pin,0.6,1.8,Beast Boost
+naganadel,Poison,Dragon,,Poison Pin,3.6,150,Beast Boost
+stakataka,Rock,Steel,,Rampart,5.5,820,Beast Boost
+blacephalon,Fire,Ghost,,Fireworks,1.8,13,Beast Boost
+zeraora,Electric,,,Thunderclap,1.5,44.5,Volt Absorb
+meltan,Steel,,,Hex Nut,0.2,8,Magnet Pull
+melmetal,Steel,,,Hex Nut,2.5,800,Iron Fist

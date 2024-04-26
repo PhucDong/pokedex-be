@@ -136,4 +136,23 @@ router.put("/:id", (req, res, next) => {
   }
 });
 
+router.delete("/:id", (req, res, next) => {
+  try {
+    let { id } = req.params;
+    id = parseInt(id);
+
+    let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
+
+    currentData.pokemons = currentData.pokemons.filter(
+      (pokemon) => pokemon.id !== id
+    );
+
+    fs.writeFileSync("db.json", JSON.stringify(currentData));
+
+    res.status(200).send({});
+  } catch (error) {
+    next(error);
+  }
+});
+
 module.exports = router;

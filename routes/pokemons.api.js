@@ -14,6 +14,7 @@ router.get("/", (req, res, next) => {
 
     let results = [];
     results = currentData.pokemons;
+    let pokemonNames = [];
 
     if (search) {
       if (!isNaN(parseInt(search))) {
@@ -21,18 +22,20 @@ router.get("/", (req, res, next) => {
       } else {
         results = results.filter((pokemon) => pokemon.name.includes(search));
       }
+      results.map((pokemon) => pokemonNames.push(pokemon.name));
+      results = [results.slice(offset, offset + limit), pokemonNames];
     }
 
     if (type) {
       results = results.filter((pokemon) => pokemon.types.includes(type));
+      results.map((pokemon) => pokemonNames.push(pokemon.name));
+      results = [results.slice(offset, offset + limit), pokemonNames];
     }
 
-    let pokemonNames = [];
-
-    results.map((pokemon) => pokemonNames.push(pokemon.name));
-
-    results = [results.slice(offset, offset + limit), pokemonNames];
-
+    if (!search && !type) {
+      results.map((pokemon) => pokemonNames.push(pokemon.name));
+      results = [results.slice(offset, offset + limit), pokemonNames];
+    }
     res.status(200).send(results);
   } catch (error) {
     next(error);
@@ -46,9 +49,12 @@ router.get("/:id", (req, res, next) => {
 
     let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
     let results = {};
-    let currentPokemonIndex;
-    currentPokemonIndex = currentData.pokemons.findIndex(
+    const currentPokemonIndex = currentData.pokemons.findIndex(
       (pokemon) => pokemon.id === pokemonId
+    );
+
+    const newPokemonData = currentData.pokemons.filter(
+      (pokemon) => pokemon.id !== pokemonId
     );
 
     if (currentPokemonIndex === 0) {
@@ -67,6 +73,7 @@ router.get("/:id", (req, res, next) => {
       results.nextPokemon = currentData.pokemons[currentPokemonIndex + 1];
     }
 
+    results.filteredData = newPokemonData;
     res.status(200).send(results);
   } catch (error) {
     next(error);
@@ -109,15 +116,15 @@ router.put("/:id", (req, res, next) => {
 
     const currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 
-    if (req.body.name) {
-      currentData.pokemons.map((pokemon) => {
-        if (pokemon.name === req.body.name) {
-          const exception = new Error("Pokemon already exists.");
-          exception.statusCode = 401;
-          throw exception;
-        }
-      });
-    }
+    // if (req.body.name) {
+    //   currentData.pokemons.map((pokemon) => {
+    //     if (pokemon.name === req.body.name) {
+    //       const exception = new Error("Pokemon already exists.");
+    //       exception.statusCode = 401;
+    //       throw exception;
+    //     }
+    //   });
+    // }
 
     const targetPokemonIndex = currentData.pokemons.findIndex(
       (pokemon) => pokemon.id === id
@@ -143,13 +150,23 @@ router.delete("/:id", (req, res, next) => {
 
     let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 
+    const deletedPokemonIndex = currentData.pokemons.findIndex(
+      (pokemon) => pokemon.id === id
+    );
+
+    let nextPokemonId;
+    if (deletedPokemonIndex === currentData.pokemons.length - 1) {
+      nextPokemonId = currentData.pokemons[0].id;
+    } else {
+      nextPokemonId = currentData.pokemons[deletedPokemonIndex + 1].id;
+    }
+
     currentData.pokemons = currentData.pokemons.filter(
       (pokemon) => pokemon.id !== id
     );
 
     fs.writeFileSync("db.json", JSON.stringify(currentData));
-
-    res.status(200).send({});
+    res.status(200).send(`${nextPokemonId}`);
   } catch (error) {
     next(error);
   }

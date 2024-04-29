@@ -74,6 +74,11 @@ router.get("/:id", (req, res, next) => {
     }
 
     results.filteredData = newPokemonData;
+
+    res.set(
+      "Access-Control-Allow-Origin",
+      "https://ultimate-pokedex-app.netlify.app"
+    );
     res.status(200).send(results);
   } catch (error) {
     next(error);

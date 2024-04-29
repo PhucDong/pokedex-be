@@ -102,6 +102,11 @@ router.post("/", (req, res, next) => {
 
     currentData.pokemons.push(newPokemon);
     fs.writeFileSync("db.json", JSON.stringify(currentData));
+
+    res.set(
+      "Access-Control-Allow-Origin",
+      "https://ultimate-pokedex-app.netlify.app"
+    );
     res.status(200).send(newPokemon);
   } catch (error) {
     next(error);
@@ -137,6 +142,11 @@ router.put("/:id", (req, res, next) => {
     currentData.pokemons[targetPokemonIndex] = updatedPokemon;
 
     fs.writeFileSync("db.json", JSON.stringify(currentData));
+
+    res.set(
+      "Access-Control-Allow-Origin",
+      "https://ultimate-pokedex-app.netlify.app"
+    );
     res.status(200).send(updatedPokemon);
   } catch (error) {
     next(error);
@@ -166,6 +176,11 @@ router.delete("/:id", (req, res, next) => {
     );
 
     fs.writeFileSync("db.json", JSON.stringify(currentData));
+
+    res.set(
+      "Access-Control-Allow-Origin",
+      "https://ultimate-pokedex-app.netlify.app"
+    );
     res.status(200).send(`${nextPokemonId}`);
   } catch (error) {
     next(error);

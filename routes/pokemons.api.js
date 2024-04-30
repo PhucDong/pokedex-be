@@ -3,6 +3,12 @@ const router = express.Router();
 const fs = require("fs");
 const path = require("path");
 const jsonFilePath = path.join(process.cwd(), "db.json");
+const cors = require("cors");
+
+const corsOptions = {
+  origin: "https://ultimate-pokedex-app.netlify.app",
+  optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
+};
 
 router.get("/", (req, res, next) => {
   try {
@@ -42,7 +48,7 @@ router.get("/", (req, res, next) => {
   }
 });
 
-router.get("/:id", (req, res, next) => {
+router.get("/:id", cors(corsOptions), (req, res, next) => {
   try {
     let { id: pokemonId } = req.params;
     pokemonId = parseInt(pokemonId);
@@ -80,7 +86,7 @@ router.get("/:id", (req, res, next) => {
   }
 });
 
-router.post("/", (req, res, next) => {
+router.post("/", cors(corsOptions), (req, res, next) => {
   try {
     const { name, url, types } = req.body;
     let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
@@ -108,7 +114,7 @@ router.post("/", (req, res, next) => {
   }
 });
 
-router.put("/:id", (req, res, next) => {
+router.put("/:id", cors(corsOptions), (req, res, next) => {
   try {
     const updates = req.body;
     let { id } = req.params;
@@ -143,7 +149,7 @@ router.put("/:id", (req, res, next) => {
   }
 });
 
-router.delete("/:id", (req, res, next) => {
+router.delete("/:id", cors(corsOptions), (req, res, next) => {
   try {
     let { id } = req.params;
     id = parseInt(id);

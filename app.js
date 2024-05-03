@@ -14,8 +14,13 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "public")));
 app.use(cookieParser());
-app.use(cors());
-app.options("*", cors());
+app.use(
+  cors({
+    origin: "https://ultimate-pokedex-app.netlify.app/",
+    methods: ["GET", "POST", "PUT", "DELETE"],
+  })
+);
+// app.options("*", cors());
 
 app.use("/", indexRouter);
 

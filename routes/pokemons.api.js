@@ -5,11 +5,6 @@ const path = require("path");
 const jsonFilePath = path.join(process.cwd(), "db.json");
 const cors = require("cors");
 
-// const corsOptions = {
-//   origin: "https://ultimate-pokedex-app.netlify.app",
-//   optionsSuccessStatus: 200, // some legacy browsers (IE11, various SmartTVs) choke on 204
-// };
-
 router.get("/", (req, res, next) => {
   try {
     let { page, limit, search, type } = req.query;
@@ -48,7 +43,7 @@ router.get("/", (req, res, next) => {
   }
 });
 
-router.get("/:id", cors(), (req, res, next) => {
+router.get("/:id", (req, res, next) => {
   try {
     let { id: pokemonId } = req.params;
     pokemonId = parseInt(pokemonId);
@@ -86,7 +81,7 @@ router.get("/:id", cors(), (req, res, next) => {
   }
 });
 
-router.post("/", cors(), (req, res, next) => {
+router.post("/", (req, res, next) => {
   try {
     const { name, url, types } = req.body;
     let currentData = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
@@ -114,7 +109,7 @@ router.post("/", cors(), (req, res, next) => {
   }
 });
 
-router.put("/:id", cors(), (req, res, next) => {
+router.put("/:id", (req, res, next) => {
   try {
     const updates = req.body;
     let { id } = req.params;
@@ -149,7 +144,7 @@ router.put("/:id", cors(), (req, res, next) => {
   }
 });
 
-router.delete("/:id", cors(), (req, res, next) => {
+router.delete("/:id", (req, res, next) => {
   try {
     let { id } = req.params;
     id = parseInt(id);
@@ -160,19 +155,12 @@ router.delete("/:id", cors(), (req, res, next) => {
       (pokemon) => pokemon.id === id
     );
 
-    let nextPokemonId;
-    if (deletedPokemonIndex === currentData.pokemons.length - 1) {
-      nextPokemonId = currentData.pokemons[0].id;
-    } else {
-      nextPokemonId = currentData.pokemons[deletedPokemonIndex + 1].id;
-    }
-
     currentData.pokemons = currentData.pokemons.filter(
       (pokemon) => pokemon.id !== id
     );
 
     fs.writeFileSync("db.json", JSON.stringify(currentData));
-    res.status(200).send(`${nextPokemonId}`);
+    res.status(200).send("Success");
   } catch (error) {
     next(error);
   }
